@@ -139,7 +139,7 @@ advent.prototype.makeimgs = function(){
     	'</div>\n'+
     	'    <div class="infotxt">\n'+
         '      <p class="notes">'+d.text+'</p>'+
-        '<p class="more"><a alt="More information" target="_top" href="'+d.infolink+'">Read more...</a></p>\n'+
+        '<p class="more"><a alt="More information" target="_blank" href="'+d.infolink+'">Read more...</a></p>\n'+
     	'    </div>\n'+
     	'    <div class="fbclear"></div>\n'+
     	'  </div>\n'+
