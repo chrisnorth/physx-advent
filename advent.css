@@ -63,20 +63,6 @@ span.title{
     font-size:2em;
 }
 
-div.herlogo{
-    position:absolute;
-    /*top:1.5em;*/
-    top:0.55em;
-    left:0px;
-    width:150px;
-}
-
-.herlogo img{
-    width:100%;
-    height:auto;
-    border:none;
-}
-
 div.date{
     position:absolute;
     /*top:1.5em;*/
@@ -95,8 +81,8 @@ span.date{
 
 div.day{
     position:absolute;
-    width:100px;
-    height:70px;
+    width:14%;
+    height:7%;
     z-index:90;
     /*overflow:hidden;*/
 }
@@ -445,7 +431,7 @@ div.fbclear{
 }
 
 /*BOX POSITIONING*/
-
+/*
 #d1{
     left:20px;
     top:500px;
@@ -570,3 +556,4 @@ div.fbclear{
     left:280px;
     top:520px;
 }
+*/
