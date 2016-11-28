@@ -4,7 +4,7 @@
   "thumbsrc":"thumbs/M51.png","name":"The Whirlpool Galaxy",
   "infolink":"http://herschel.cf.ac.uk/results/whirlpool-galaxy",
   "imgsrc":"images_OLD/M51.jpg",
-  "text":"We start our Herschel advent calendar with the first object Herschel observed: The Whirlpool Galaxy, or Messier 51. Around 23 million light years away in the constellation of Ursa Major, the Whirlpool Galaxy is a large spiral galaxy that is interacting with a smaller one which is linked by one of the spiral arms. In this Herschel image, we are not seeing the stars, but rather the gas and dust between the stars. The brighter, bluer regions are heated by hot, newly-formed stars, while the redder colours show colder material that defines the spiral arms.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/whirlpool-galaxy'>Read more...</a>"
+  "text":"We start our Herschel advent calendar with the first object Herschel observed: The Whirlpool Galaxy, or Messier 51. Around 23 million light years away in the constellation of Ursa Major, the Whirlpool Galaxy is a large spiral galaxy that is interacting with a smaller one which is linked by one of the spiral arms. In this Herschel image, we are not seeing the stars, but rather the gas and dust between the stars. The brighter, bluer regions are heated by hot, newly-formed stars, while the redder colours show colder material that defines the spiral arms.</p>"
 },
 
 "day2":{
@@ -12,7 +12,7 @@
   "thumbsrc":"thumbs/Hartley2.png","name":"Comet Hartley 2",
   "infolink":"http://herschel.cf.ac.uk/results/comet-hartley-2-and-oceans-earth",
   "imgsrc":"images_OLD/Hartley2.png",
-  "text":"Comets are debris left over from the formation of the Solar System. Often called 'dirty snowballs', they are largely composed of water. In November 2010 Comet Hartley 2 passed within 20 million km of Earth, and Herschel, allowing astronomers to get a close-up view. Herschel's spectrometers studied the composition of the water ice in the comet, and determined that it is similar to the water of Earth's oceans, providing futerh evidence that impacts of comets billions of years ago may have been responsible for at least some of the water on Earth.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/comet-hartley-2-and-oceans-earth'>Read more...</a>"
+  "text":"Comets are debris left over from the formation of the Solar System. Often called 'dirty snowballs', they are largely composed of water. In November 2010 Comet Hartley 2 passed within 20 million km of Earth, and Herschel, allowing astronomers to get a close-up view. Herschel's spectrometers studied the composition of the water ice in the comet, and determined that it is similar to the water of Earth's oceans, providing futerh evidence that impacts of comets billions of years ago may have been responsible for at least some of the water on Earth.</p>"
 },
 
 "day3":{
@@ -20,7 +20,7 @@
   "thumbsrc":"thumbs/W44.png","name":"Supernova remnant W44",
   "infolink":"http://herschel.cf.ac.uk/results/supernova-remnant-w44",
   "imgsrc":"images_OLD/W44.jpg",
-  "text":"The region called W44 is the remains of an ancient supernova &ndash; a star that died in a violent explosion around 20,000 years ago. Now around 100 light years across, a shell of heated dust is being blown outwards by the supernova shockwave, compressing the dust around it and causing further bouts of star formation. In this image, the dust detected by Herschel is shown in red, orange and purple, with the warmest dust being represented by the purple regions. In light and dark blue are shown x-rays detected by the XMM-Newton x-ray satellite. These x-rays are emitted by gas at millions of degrees near the centre of the remnant.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/supernova-remnant-w44'>Read more...</a>"
+  "text":"The region called W44 is the remains of an ancient supernova &ndash; a star that died in a violent explosion around 20,000 years ago. Now around 100 light years across, a shell of heated dust is being blown outwards by the supernova shockwave, compressing the dust around it and causing further bouts of star formation. In this image, the dust detected by Herschel is shown in red, orange and purple, with the warmest dust being represented by the purple regions. In light and dark blue are shown x-rays detected by the XMM-Newton x-ray satellite. These x-rays are emitted by gas at millions of degrees near the centre of the remnant.</p>"
 },
 
 "day4":{
@@ -28,7 +28,7 @@
   "thumbsrc":"thumbs/GalacticPlane-Vulpecula.png","name":"Galactic Plane in Vulpecula",
   "infolink":"http://herschel.cf.ac.uk/results/galactic-plane-vulpecula",
   "imgsrc":"images_OLD/GalacticPlane-Vulpecula.jpg",
-  "text":"Our Galaxy is a flattened disc shape, and because we're in the disc we see it as an edge-on strip across the sky &ndash; called the Galactic Plane. Herschel is making a map of the entire Galactic plane, with this image showing a small section of it, viewed towards the constellation of Vulpecula. The blue regions on the left are being heated by hot, young stars. The redder material is colder, and generally more diffuse, but is threaded by fine filaments, along which gas and dust are clumping. It is these clumps which mark the first stages of star formation.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/galactic-plane-vulpecula'>Read more...</a>"
+  "text":"Our Galaxy is a flattened disc shape, and because we're in the disc we see it as an edge-on strip across the sky &ndash; called the Galactic Plane. Herschel is making a map of the entire Galactic plane, with this image showing a small section of it, viewed towards the constellation of Vulpecula. The blue regions on the left are being heated by hot, young stars. The redder material is colder, and generally more diffuse, but is threaded by fine filaments, along which gas and dust are clumping. It is these clumps which mark the first stages of star formation.</p>"
 },
 
 "day5":{
@@ -36,7 +36,7 @@
   "thumbsrc":"thumbs/CWLeo.png","name":"CW Leonis",
   "infolink":"http://herschel.cf.ac.uk/results/cw-leonis",
   "imgsrc":"images_OLD/CWLeo.jpg",
-  "text":"CW Leonis is a red giant star that is so bright it is hard for Herschel's cameras to see well. Although it is only a few times the mass of our Sun, it has ballooned in its old age and is hundreds of times the size. Deep in its core, the nuclear fusion reactions that power the star are burning helium to carbon, much of which ends up in the outer layers of the star. This carbon exists in molecules of carbon monoxide, which also locks up all the oxygen, theoretically preventing the formation of other oxygen-bearing molecules. Surprisingly, Herschel found that there is also water vapour very close to the star &ndash; somewhere it shouldn't be able to exist at all.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/cw-leonis'>Read more...</a>"
+  "text":"CW Leonis is a red giant star that is so bright it is hard for Herschel's cameras to see well. Although it is only a few times the mass of our Sun, it has ballooned in its old age and is hundreds of times the size. Deep in its core, the nuclear fusion reactions that power the star are burning helium to carbon, much of which ends up in the outer layers of the star. This carbon exists in molecules of carbon monoxide, which also locks up all the oxygen, theoretically preventing the formation of other oxygen-bearing molecules. Surprisingly, Herschel found that there is also water vapour very close to the star &ndash; somewhere it shouldn't be able to exist at all.</p>"
 },
 
 "day6":{
@@ -44,7 +44,7 @@
   "thumbsrc":"thumbs/Fomalhaut.png","name":"Fomalhaut",
   "infolink":"http://herschel.cf.ac.uk/results/fomalhaut",
   "imgsrc":"images_OLD/Fomalhaut.jpg",
-  "text":"Fomalhaut is one of the closest stars to Earth, at a distance of just 25 light years. It has been known for some time that it has a dusty ring of dust around it, and there are hints that it has at least one planet orbiting it. The disc of material lies 100 times further from the star than the Earth is from the Sun. Herschel observations showed that the disc contains a large quantity of very small grains, just a few thousandths of a millimetre across. Such small grains should be blown out of the system's by the star's light, so they must be replenished by collisions of larger objects. The calculations suggest that the equivalent of around 2000 kilometre-sized comets are destroyed every day!</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/fomalhaut'>Read more...</a>"
+  "text":"Fomalhaut is one of the closest stars to Earth, at a distance of just 25 light years. It has been known for some time that it has a dusty ring of dust around it, and there are hints that it has at least one planet orbiting it. The disc of material lies 100 times further from the star than the Earth is from the Sun. Herschel observations showed that the disc contains a large quantity of very small grains, just a few thousandths of a millimetre across. Such small grains should be blown out of the system's by the star's light, so they must be replenished by collisions of larger objects. The calculations suggest that the equivalent of around 2000 kilometre-sized comets are destroyed every day!</p>"
 },
 
 "day7":{
@@ -52,7 +52,7 @@
   "thumbsrc":"thumbs/CenA.png","name":"Centaurus A",
   "infolink":"http://herschel.cf.ac.uk/results/centaurus-a",
   "imgsrc":"images_OLD/CenA.jpg",
-  "text":"The Centaurus A galaxy harbours a monster in its heart: a supermassive black hole. All large galaxies, including our own, are thought to have one at their core, each at least millions of times more massive than our Sun. But the black hole in Centaurus A doesn't just sit there quietly. It's a messy eater, and as it feeds on the gas and dust surrounding it, some of the material is ejected out in massive jets. This image combines data from Herschel shown in yellow and red, and from the x-ray satellite XMM-Newton, shown in blue. Herschel picks up dust in the galaxy, both in a warped disk &ndash; evidence of Centaurus A's last meal, and at the end of the two massive jets. The jets themselves are made of extremely hot gas, which is seen in x-rays by XMM-Newton.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/centaurus-a'>Read more...</a>"
+  "text":"The Centaurus A galaxy harbours a monster in its heart: a supermassive black hole. All large galaxies, including our own, are thought to have one at their core, each at least millions of times more massive than our Sun. But the black hole in Centaurus A doesn't just sit there quietly. It's a messy eater, and as it feeds on the gas and dust surrounding it, some of the material is ejected out in massive jets. This image combines data from Herschel shown in yellow and red, and from the x-ray satellite XMM-Newton, shown in blue. Herschel picks up dust in the galaxy, both in a warped disk &ndash; evidence of Centaurus A's last meal, and at the end of the two massive jets. The jets themselves are made of extremely hot gas, which is seen in x-rays by XMM-Newton.</p>"
   },
 
 "day8":{
@@ -60,7 +60,7 @@
   "thumbsrc":"thumbs/OrionNebula.png","name":"The Orion Nebula",
   "infolink":"http://herschel.cf.ac.uk/results/orion-nebula",
   "imgsrc":"images_OLD/OrionNebula.jpg",
-  "text":"At a distance of around 1500 light years, the Orion Nebula is the largest star-forming region to the Earth. Seen here in a composite image from Herschel and NASA's Spitzer infrared satellite, the nebula is aglow thanks to the large quantities of gas and dust. Some of this gas and dust is heated by newly-formed stars, and more are forming today at the heart of the nebula. Further out, there are a few protostars surrounded by clouds of cold dust, which appear as red dots in this image. Herschel observations showed that the stars appeared to be changing in brightness &ndash; an effect that is attributed to the dust surrounding them being clumpy, with denser regions periodically passing in front of the stars and briefly dimming them.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/orion-nebula'>Read more...</a>"
+  "text":"At a distance of around 1500 light years, the Orion Nebula is the largest star-forming region to the Earth. Seen here in a composite image from Herschel and NASA's Spitzer infrared satellite, the nebula is aglow thanks to the large quantities of gas and dust. Some of this gas and dust is heated by newly-formed stars, and more are forming today at the heart of the nebula. Further out, there are a few protostars surrounded by clouds of cold dust, which appear as red dots in this image. Herschel observations showed that the stars appeared to be changing in brightness &ndash; an effect that is attributed to the dust surrounding them being clumpy, with denser regions periodically passing in front of the stars and briefly dimming them.</p>"
 },
 
 "day9":{
@@ -68,7 +68,7 @@
   "thumbsrc":"thumbs/M16.png","name":"The Eagle Nebula",
   "infolink":"http://herschel.cf.ac.uk/results/eagle-nebula",
   "imgsrc":"images_OLD/M16.jpg",
-  "text":"The Eagle Nebula is home to one of the most iconic images in astronomy: the pillars of creation. Seen here in the far-infrared by Herschel, just below-left of the centre, they are clearly part of a much larger cloud of dust. At the centre of the nebula lies a young star cluster, unseen by Herschel, which is heating the nearer regions, making them appear bluer in this region. There are numerous pillars and dense clumps, created as the harsh radiation from the young stars erodes away the surrounding gas and dust. Further out, the dust is colder, appearing redder here, though there are still dense clumps of cold dust &ndash; the first stages of star formation.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/eagle-nebula'>Read more...</a>"
+  "text":"The Eagle Nebula is home to one of the most iconic images in astronomy: the pillars of creation. Seen here in the far-infrared by Herschel, just below-left of the centre, they are clearly part of a much larger cloud of dust. At the centre of the nebula lies a young star cluster, unseen by Herschel, which is heating the nearer regions, making them appear bluer in this region. There are numerous pillars and dense clumps, created as the harsh radiation from the young stars erodes away the surrounding gas and dust. Further out, the dust is colder, appearing redder here, though there are still dense clumps of cold dust &ndash; the first stages of star formation.</p>"
 },
 
 "day10":{
@@ -76,7 +76,7 @@
   "thumbsrc":"thumbs/GalacticCentre.png","name":"The Galactic Centre",
   "infolink":"http://herschel.cf.ac.uk/results/galactic-centre",
   "imgsrc":"images_OLD/GalacticCentre.jpg",
-  "text":"The centre of our own Galaxy lies almost 30,000 light years away, shrouded by dense clouds of cold gas and dust. But in the far-infrared, Herschel can see the material in the centre of the galaxy glowing brightly, as shown in this image. Looped around the point that marks the Galactic Centre, a yellow figure-of-eight shape is discernable. This is a twisted ring of gas and dust around 600 light years across, the origin of which is unclear. Perhaps it is the remant of a dwarf galaxy &ndash; the Milky Way's last meal. Whatever its origin, equally mysterious is what caused it to be twisted, and how it is affecting by the surrounding region.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/galactic-centre'>Read more...</a>"
+  "text":"The centre of our own Galaxy lies almost 30,000 light years away, shrouded by dense clouds of cold gas and dust. But in the far-infrared, Herschel can see the material in the centre of the galaxy glowing brightly, as shown in this image. Looped around the point that marks the Galactic Centre, a yellow figure-of-eight shape is discernable. This is a twisted ring of gas and dust around 600 light years across, the origin of which is unclear. Perhaps it is the remant of a dwarf galaxy &ndash; the Milky Way's last meal. Whatever its origin, equally mysterious is what caused it to be twisted, and how it is affecting by the surrounding region.</p>"
 },
 
 "day11":{
@@ -84,7 +84,7 @@
   "thumbsrc":"thumbs/SMC.png","name":"Small Magellanic Cloud",
   "infolink":"http://herschel.cf.ac.uk/results/small-magellanic-cloud",
   "imgsrc":"images_OLD/SMC.jpg",
-  "text":"Despite its name, the Small Magellanic Cloud is one of the larger satellite galaxies of our own Milky Way, and also one of the closest at a mere 200,000 light years. It has an odd shape, with features given names such as the 'bar' (on the right) an the 'wing' (stretching towards the left). Its complex shape is due to its small size and its proximity to a larger companion, the Large Magellanic Cloud. Compared with the Milky Way, it is slightly deficient in heavier elements such as carbon and oxygen, which slows the cycle of star-birth and death. This allows astronomers to get a glimps of what star formation may have looked like in our Galaxy several billion years ago.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/small-magellanic-cloud'>Read more...</a>"
+  "text":"Despite its name, the Small Magellanic Cloud is one of the larger satellite galaxies of our own Milky Way, and also one of the closest at a mere 200,000 light years. It has an odd shape, with features given names such as the 'bar' (on the right) an the 'wing' (stretching towards the left). Its complex shape is due to its small size and its proximity to a larger companion, the Large Magellanic Cloud. Compared with the Milky Way, it is slightly deficient in heavier elements such as carbon and oxygen, which slows the cycle of star-birth and death. This allows astronomers to get a glimps of what star formation may have looked like in our Galaxy several billion years ago.</p>"
   },
 
 "day12":{
@@ -92,7 +92,7 @@
   "thumbsrc":"thumbs/RosetteNebula.png","name":"Rosette Nebula",
   "infolink":"http://herschel.cf.ac.uk/results/rosette-nebula",
   "imgsrc":"images_OLD/RosetteNebula.jpg",
-  "text":"The Rosette Nebula is a massive cloud of gas and dust, with a bright cluster of hot, young stars at its centre. This Herschel image shows part of the nebula, with the location of the central cluster just off to the right of the image. The bluer material is warmer, heated by the harsh light of the hot stars, while further towards the edges the gas and dust is colder. Several pillars and tendrils can be seen, left behind as the surrounding material is eroded away by the intense starlight. Clumps of hot, blue-white dust can be seen, which contain newly-formed stars. Meanwhile, the red knots in the upper left show the initial stages of star-formation, with cold dust collapsing under gravity.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/rosette-nebula'>Read more...</a>"
+  "text":"The Rosette Nebula is a massive cloud of gas and dust, with a bright cluster of hot, young stars at its centre. This Herschel image shows part of the nebula, with the location of the central cluster just off to the right of the image. The bluer material is warmer, heated by the harsh light of the hot stars, while further towards the edges the gas and dust is colder. Several pillars and tendrils can be seen, left behind as the surrounding material is eroded away by the intense starlight. Clumps of hot, blue-white dust can be seen, which contain newly-formed stars. Meanwhile, the red knots in the upper left show the initial stages of star-formation, with cold dust collapsing under gravity.</p>"
 },
 
 "day13":{
@@ -100,7 +100,7 @@
   "thumbsrc":"thumbs/CocoonNebula.png","name":"Cocoon Nebula",
   "infolink":"http://herschel.cf.ac.uk/results/cocoon-nebula",
   "imgsrc":"images_OLD/CocoonNebula.jpg",
-  "text":"The Cocoon Nebula is a star-forming cloud, which has a network of filaments of gas and dust leading away from it to the right as seen in this image. These filaments are a common feature of our Galaxy, and are thought to be caused by interstellar, supersonic shockwaves from exploding stars. Studies with Herschel have shown that these filaments tend to have a similar width &ndash; around a third of a light year &ndash; regardless of their environment. It is along these filaments that knots and clumps fo gas and dust start to form, collapsing under gravity, and leading to the formation of new generations of stars.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/cocoon-nebula'>Read more...</a>"
+  "text":"The Cocoon Nebula is a star-forming cloud, which has a network of filaments of gas and dust leading away from it to the right as seen in this image. These filaments are a common feature of our Galaxy, and are thought to be caused by interstellar, supersonic shockwaves from exploding stars. Studies with Herschel have shown that these filaments tend to have a similar width &ndash; around a third of a light year &ndash; regardless of their environment. It is along these filaments that knots and clumps fo gas and dust start to form, collapsing under gravity, and leading to the formation of new generations of stars.</p>"
 },
 
 "day14":{
@@ -108,7 +108,7 @@
   "thumbsrc":"thumbs/SN1987a.png","name":"Supernova 1987A",
   "infolink":"http://herschel.cf.ac.uk/results/supernova-1987a",
   "imgsrc":"images_OLD/SN1987a.jpg",
-  "text":"In 1987 astronomers were treated to a view of one of the Universe's most dramatic events: the violent death of a massive star. The star, located 160,000 light years away in the Large Magellanic Cloud, went supernova at the end of its life, producing a new star in the sky visible to the naked eye for several weeks. More than 20 years later, Herschel is still studying the remains of this stellar explosion, called 'Supernova 1987a', as supernovae are thought to be one of the sources of much of the interstellar dust Herschel is observing, though it is uncertain as to whether this dust is then destroyed by the shockwave. The presence of cold dust in the supernova strongly implies that the dust can survive, beginning to answer one of astronomy's great mysteries.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/supernova-1987a'>Read more...</a>"
+  "text":"In 1987 astronomers were treated to a view of one of the Universe's most dramatic events: the violent death of a massive star. The star, located 160,000 light years away in the Large Magellanic Cloud, went supernova at the end of its life, producing a new star in the sky visible to the naked eye for several weeks. More than 20 years later, Herschel is still studying the remains of this stellar explosion, called 'Supernova 1987a', as supernovae are thought to be one of the sources of much of the interstellar dust Herschel is observing, though it is uncertain as to whether this dust is then destroyed by the shockwave. The presence of cold dust in the supernova strongly implies that the dust can survive, beginning to answer one of astronomy's great mysteries.</p>"
 },
 
 "day15":{
@@ -116,7 +116,7 @@
   "thumbsrc":"thumbs/OrionSpectrum.png","name":"The Orion Nebula",
   "infolink":"http://herschel.cf.ac.uk/results/complex-molecules-orion-nebula",
   "imgsrc":"images_OLD/OrionSpectrum.jpg",
-  "text":"As well as taking pretty pictures of gas and dust, Herschel also carries on board spectrometers. These show the light emitted by a vast range of elements and molecules in space. When it studies the Orion Nebula with its high resolution spectrometer, HIFI, Herschel found a vast array of organic chemicals. These are molecules containing carbon and hydrogen, and get their name from the fact that they are one of many building block of life &ndash; though what Herschel has seen is spread between the stars. Although there is lots of water , presence with the addition of compounds such as dimethyl ether, formaldehyde and sukphur dioxide, taking a drink from the Orion Nebula is not recommended!</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/complex-molecules-orion-nebula'>Read more...</a>"
+  "text":"As well as taking pretty pictures of gas and dust, Herschel also carries on board spectrometers. These show the light emitted by a vast range of elements and molecules in space. When it studies the Orion Nebula with its high resolution spectrometer, HIFI, Herschel found a vast array of organic chemicals. These are molecules containing carbon and hydrogen, and get their name from the fact that they are one of many building block of life &ndash; though what Herschel has seen is spread between the stars. Although there is lots of water , presence with the addition of compounds such as dimethyl ether, formaldehyde and sukphur dioxide, taking a drink from the Orion Nebula is not recommended!</p>"
 },
 
 "day16":{
@@ -124,7 +124,7 @@
   "thumbsrc":"thumbs/ATLAS.png","name":"Herschel-ATLAS",
   "infolink":"http://herschel.cf.ac.uk/results/herschel-atlas-gravitational-lenses",
   "imgsrc":"images_OLD/ATLAS-lenses.jpg",
-  "text":"By staring at a seemingly blank patch of sky, just a few times the size of the Sull Moon as seen form Earth, Herschel sees the light from thousands of distant galaxies, each so far away that their light has been travelling for billions of years. Some of them appear brighter than they should, as their light is warped and magnified by the gravity of an intervening, and closer, galaxy. These 'gravitational lenses' allow astronomers to see very distant galaxies more clearly than would otherwise be possible, and to study the way stars and galaxies were forming and behaving when the Universe was a fraction of its current age.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/herschel-atlas-gravitational-lenses'>Read more...</a>"
+  "text":"By staring at a seemingly blank patch of sky, just a few times the size of the Sull Moon as seen form Earth, Herschel sees the light from thousands of distant galaxies, each so far away that their light has been travelling for billions of years. Some of them appear brighter than they should, as their light is warped and magnified by the gravity of an intervening, and closer, galaxy. These 'gravitational lenses' allow astronomers to see very distant galaxies more clearly than would otherwise be possible, and to study the way stars and galaxies were forming and behaving when the Universe was a fraction of its current age.</p>"
 },
 
 "day17":{
@@ -132,7 +132,7 @@
   "thumbsrc":"thumbs/LMC.png","name":"Large Magellanic Cloud",
   "infolink":"http://herschel.cf.ac.uk/results/large-magellanic-cloud",
   "imgsrc":"images_OLD/LMC.jpg",
-  "text":"The Large Magellanic Cloud is the largest satellite galaxy of our Milky Way, sitting at a distance of around 160,000 light years away. It has an irregular shape, but there is some structure, such as a bar across the centre. In this Herschel-Spitzer composite image, the Tarantula Nebula, a massive star-forming region, is seen as a bright batch on the left of the galaxy. The Large Magellanic Cloud allows astronomers to study star fomation on the scale of galaxies, albeit a relatively small one, while still being able to see it in great detail.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/large-magellanic-cloud'>Read more...</a>"
+  "text":"The Large Magellanic Cloud is the largest satellite galaxy of our Milky Way, sitting at a distance of around 160,000 light years away. It has an irregular shape, but there is some structure, such as a bar across the centre. In this Herschel-Spitzer composite image, the Tarantula Nebula, a massive star-forming region, is seen as a bright batch on the left of the galaxy. The Large Magellanic Cloud allows astronomers to study star fomation on the scale of galaxies, albeit a relatively small one, while still being able to see it in great detail.</p>"
 },
 
 "day18":{
@@ -140,7 +140,7 @@
   "thumbsrc":"thumbs/CarinaNebula.png","name":"Carina Nebula",
   "infolink":"http://herschel.cf.ac.uk/results/carina-nebula",
   "imgsrc":"images_OLD/CarinaNebula.jpg",
-  "text":"The Carina Nebula plays host to one of the most massive stars in our Galaxy, eta Carina, which is more than 100 times the mass of our Sun. Although the star itself is not visible, together with its heavyweight companions it blows bubble in the gas and dust surrounding it, leaving pillars of dust that all appear to point towards the location of this monster star. The dust seen by Herschel weighs in at 650,000 times the mass of the Sun, and with the warm gas that Herschel doesn't see, the total amount of material is equivalent to nearly a million Suns!</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/carina-nebula'>Read more...</a>"
+  "text":"The Carina Nebula plays host to one of the most massive stars in our Galaxy, eta Carina, which is more than 100 times the mass of our Sun. Although the star itself is not visible, together with its heavyweight companions it blows bubble in the gas and dust surrounding it, leaving pillars of dust that all appear to point towards the location of this monster star. The dust seen by Herschel weighs in at 650,000 times the mass of the Sun, and with the warm gas that Herschel doesn't see, the total amount of material is equivalent to nearly a million Suns!</p>"
 },
 
 "day19":{
@@ -149,7 +149,7 @@
   "name":"Taurus Molecular Cloud",
   "infolink":"http://herschel.cf.ac.uk/results/taurus-molecular-cloud",
   "imgsrc":"images_OLD/TaurusMolecularCloud.jpg",
-  "text":"The Taurus Molecular Cloud is a collection of wispy regions of gas and dust seen towards the constellation of Taurus. The clouds are made of very cold dust, some of which is collapsing under gravity to form denser clumps. In millions of years, some of those clumps may well produce stars. For now, they are little more than clouds of gas and dust, but they do contain molecules such as water. Using its sensitive spectrometers, Herschel has shown that water exists in these clouds, which mark the precursor to star formation. Such measurements are only possible from space, as water in the Earth's atmosphere thwarts attempts from the ground.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/taurus-molecular-cloud'>Read more...</a>"
+  "text":"The Taurus Molecular Cloud is a collection of wispy regions of gas and dust seen towards the constellation of Taurus. The clouds are made of very cold dust, some of which is collapsing under gravity to form denser clumps. In millions of years, some of those clumps may well produce stars. For now, they are little more than clouds of gas and dust, but they do contain molecules such as water. Using its sensitive spectrometers, Herschel has shown that water exists in these clouds, which mark the precursor to star formation. Such measurements are only possible from space, as water in the Earth's atmosphere thwarts attempts from the ground.</p>"
 },
 
 "day20":{
@@ -158,7 +158,7 @@
   "name":"Crab Nebula",
   "infolink":"http://herschel.cf.ac.uk/results/crab-nebula",
   "imgsrc":"images_OLD/CrabNebula.jpg",
-  "text":"The Crab nebula is the remnant of a star that died in a violent supernova explosion around 1000 years ago, in 1054 AD &ndash; an event that was witnessed by Chinese astronomers. Today, we see an expanding cloud of hot, energised gas, and warm dust, which retains its heat from the initial explosion and is seen here in dark blue. In the very centre of the nebula, all that is left of the core of the original star emits strong radiation which heats the surrounding gas and causes it to emit x-rays. But by resolving the detail of the nebula in the far-infrared, Herschel has found conclusive evidence of cold dust, seen in magenta, in the nebula, which can only have been formed after the violent explosion. This proves that dust is formed in these violent events, and that it can survive the resulting shockwaves that pass through.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/crab-nebula'>Read more...</a>"
+  "text":"The Crab nebula is the remnant of a star that died in a violent supernova explosion around 1000 years ago, in 1054 AD &ndash; an event that was witnessed by Chinese astronomers. Today, we see an expanding cloud of hot, energised gas, and warm dust, which retains its heat from the initial explosion and is seen here in dark blue. In the very centre of the nebula, all that is left of the core of the original star emits strong radiation which heats the surrounding gas and causes it to emit x-rays. But by resolving the detail of the nebula in the far-infrared, Herschel has found conclusive evidence of cold dust, seen in magenta, in the nebula, which can only have been formed after the violent explosion. This proves that dust is formed in these violent events, and that it can survive the resulting shockwaves that pass through.</p>"
 },
 
 "day21":{
@@ -167,7 +167,7 @@
   "name":"Andromeda Galaxy",
   "infolink":"http://herschel.cf.ac.uk/results/andromeda-galaxy",
   "imgsrc":"images_OLD/M31.jpg",
-  "text":"The Andromeda Galaxy is the closest large galaxy to our own Milky Way, at a distance of around 2.5 million light years. Being relatively close, it allows astronomers using Herschel to study the formation of stars on the scale of an entire galaxy, while still being able to see the finer detail. The dust that Herschel sees lies between the spiral arms, and contains several clumps where stars are forming today. A large ring is clearly visible towards the edge of the galaxy, which is around 90,000 light years across. The origin of this ring is unclear, but it may be result of the Andromeda Galaxy's latest meal. Another possibility is that a smaller galaxy passed through the centre of Andromeda, creating a ripple like that on a pond, and which has now spread to the outer regions of the galaxy.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/andromeda-galaxy'>Read more...</a>"
+  "text":"The Andromeda Galaxy is the closest large galaxy to our own Milky Way, at a distance of around 2.5 million light years. Being relatively close, it allows astronomers using Herschel to study the formation of stars on the scale of an entire galaxy, while still being able to see the finer detail. The dust that Herschel sees lies between the spiral arms, and contains several clumps where stars are forming today. A large ring is clearly visible towards the edge of the galaxy, which is around 90,000 light years across. The origin of this ring is unclear, but it may be result of the Andromeda Galaxy's latest meal. Another possibility is that a smaller galaxy passed through the centre of Andromeda, creating a ripple like that on a pond, and which has now spread to the outer regions of the galaxy.</p>"
 },
 
 "day22":{
@@ -176,7 +176,7 @@
   "name":"GOODS-North",
   "infolink":"http://herschel.cf.ac.uk/results/goods-north",
   "imgsrc":"images_OLD/GOODS-North.jpg",
-  "text":"There are a number of regions of sky that have been studied extensively by the most powerful telescope on the ground and in space, such as the 'GOODS-North' region shown here. They are chosen because there seems to be nothing there, but in fact allows astronomers to peer back in time and see distant galaxies when the Universe was a fraction of its current age. The galaxies detected by Herschel in this image are seen as they were between 3 and 10 billion years ago, when star formation was at its peak. The brightest galaxies are forming stars 100 to 1000 times faster than our own Galaxy is today, and are producing large quantities of dust. This dust makes the galaxies all but invisible to optical telescope, but glows brightly at the far-infrared and sub-millimetre wavelengths that Herschel is sensitive to.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/goods-north'>Read more...</a>"
+  "text":"There are a number of regions of sky that have been studied extensively by the most powerful telescope on the ground and in space, such as the 'GOODS-North' region shown here. They are chosen because there seems to be nothing there, but in fact allows astronomers to peer back in time and see distant galaxies when the Universe was a fraction of its current age. The galaxies detected by Herschel in this image are seen as they were between 3 and 10 billion years ago, when star formation was at its peak. The brightest galaxies are forming stars 100 to 1000 times faster than our own Galaxy is today, and are producing large quantities of dust. This dust makes the galaxies all but invisible to optical telescope, but glows brightly at the far-infrared and sub-millimetre wavelengths that Herschel is sensitive to.</p>"
 },
 
 "day23":{
@@ -185,7 +185,7 @@
   "name":"Uranus",
   "infolink":"http://herschel.cf.ac.uk/results/uranus",
   "imgsrc":"images_OLD/Uranus.jpg",
-  "text":"The planet Uranus is seven times larger than the Earth, but is almost three billion kilometres away in the outer reaches of the Solar System. This means that Herschel sees it as a point of light. Despite its distance, Uranus is very bright in the far-infrared and sub-millimetre wavelengths that Herschel is sensitiv to. Its brightness makes it an ideal object for astronomers using Herschel to use when calibrating their images and checking the telescope and instruments are working correctly. The spikes in the image are due to the effect of the structures that support Herschel's smaller, secondary mirror. In the background, hundreds of distant galaxies can be seen. The checks done on Uranus allow astronomers to better understand their observations of distant galaxies such as these.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/uranus'>Read more...</a>"
+  "text":"The planet Uranus is seven times larger than the Earth, but is almost three billion kilometres away in the outer reaches of the Solar System. This means that Herschel sees it as a point of light. Despite its distance, Uranus is very bright in the far-infrared and sub-millimetre wavelengths that Herschel is sensitiv to. Its brightness makes it an ideal object for astronomers using Herschel to use when calibrating their images and checking the telescope and instruments are working correctly. The spikes in the image are due to the effect of the structures that support Herschel's smaller, secondary mirror. In the background, hundreds of distant galaxies can be seen. The checks done on Uranus allow astronomers to better understand their observations of distant galaxies such as these.</p>"
 },
 
 "day24":{
@@ -194,7 +194,7 @@
   "name":"Cygnus X",
   "infolink":"http://herschel.cf.ac.uk/results/cygnus-x",
   "imgsrc":"images_OLD/CygnusX.jpg",
-  "text":"The region of the sky called 'Cygnus X' is one of the most complex regions of star formation visible from Earth. Seen in visible light, it is almost completely black, as thick clouds of interstellar dust block out the light from the stars behind. In far-infrared light, however, Herschel can see the details of the dust. Bluer regions are warmer, heated by newly-formed stars, unseen in this image. Their presence is indicated by the bubbles and cavities that they appear to blow in the surrounding regions. Red and yellow regions show colder dust, which lies further from the hot, young stars. These regions are still interesting, however, and show the way the filaments of dust cluster and clump to form dense knots, such as those right of centre, which are well on the way to forming new stars.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/cygnus-x'>Read more...</a>"
+  "text":"The region of the sky called 'Cygnus X' is one of the most complex regions of star formation visible from Earth. Seen in visible light, it is almost completely black, as thick clouds of interstellar dust block out the light from the stars behind. In far-infrared light, however, Herschel can see the details of the dust. Bluer regions are warmer, heated by newly-formed stars, unseen in this image. Their presence is indicated by the bubbles and cavities that they appear to blow in the surrounding regions. Red and yellow regions show colder dust, which lies further from the hot, young stars. These regions are still interesting, however, and show the way the filaments of dust cluster and clump to form dense knots, such as those right of centre, which are well on the way to forming new stars.</p>"
 },
 
 "day25":{
@@ -203,6 +203,6 @@
   "name":"61 Virginis",
   "infolink":"http://herschel.cf.ac.uk/results/61-virginis",
   "imgsrc":"images_OLD/61Virginis.jpg",
-  "text":"We end our Herschel advent calendar with the star 61 Virginis, in the constellation of Virgo the Virgin &ndash; which seems appropriate for Christmas Day. It's a star very similar to our Sun, which is known to be orbited by at least two planets. These known planets, which range from 5 to 18 times Earth's mass &ndash; with the largest being similar in mass to Neptune &ndash; orbit much closer to their star than Mercury does to our Sun. Herschel has now found evidence that there is a dust ring of debris orbitting the star much further out, sketched (though not to scale) in the artist's impression, left over from when the planets were forming. This star forms part of a study which has indicated that duch 'debris discs' survive more easily around stars that lack a massive Jupiter-like planet, which has implications for our theories of planet formation.</p><p class='more'><a alt='More information' target='_top' href='http://herschel.cf.ac.uk/results/61-virginis'>Read more...</a>"
+  "text":"We end our Herschel advent calendar with the star 61 Virginis, in the constellation of Virgo the Virgin &ndash; which seems appropriate for Christmas Day. It's a star very similar to our Sun, which is known to be orbited by at least two planets. These known planets, which range from 5 to 18 times Earth's mass &ndash; with the largest being similar in mass to Neptune &ndash; orbit much closer to their star than Mercury does to our Sun. Herschel has now found evidence that there is a dust ring of debris orbitting the star much further out, sketched (though not to scale) in the artist's impression, left over from when the planets were forming. This star forms part of a study which has indicated that duch 'debris discs' survive more easily around stars that lack a massive Jupiter-like planet, which has implications for our theories of planet formation.</p>"
   }
 }
