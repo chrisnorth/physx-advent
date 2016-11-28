@@ -1,0 +1,107 @@
+/* Following are the presentation styles -- edit away! */
+
+body {
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    color: #ffffff;
+    font-size: 1em;
+    font-family: 'Helvetica Neue','Arial';
+    text-shadow: 2px 2px 5px #000;
+}
+
+h1{color:blue;}
+
+h1.title{
+    border:none;
+    color:white;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:5px;
+}
+
+img.bg{
+    width:987px;
+/*    border: 5px #555555 solid;*/
+    border: none;
+    left:74px;
+    top:83px;
+}
+
+img.logo{
+    width:250px;
+    border:none;
+}
+
+div.bg{
+    border: none;
+    position:relative;
+    clear:both;
+}
+div.title{
+    border: none;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+
+div {
+    /*border: 2px red solid;*/
+}
+
+div.gals{
+    position:absolute;
+}
+
+img.gal{
+    border: none;
+    width:100px;
+}
+
+.galimg { 
+    position:absolute;
+    border: none;
+}
+
+div.ngc7331 {
+    left:200px;
+    top:100px;
+}
+
+div.galimg{
+    border:0px
+}
+
+div.galimg a{
+    display:block;
+}
+
+div.galimg img{
+    display:inline;
+    width:100%;
+    height:100%;
+}
+
+div.galname{
+    display:none;
+    font-size: 1em;
+}
+
+div.galon{
+    background-color:green;
+    z-index:10;
+}
+
+div.galon .galname{
+    display:block;
+}
+
+.bgimg{
+    position:absolute;
+    overflow:hidden;
+}
+
+.fork{
+    width:100%;
+    height:100%;
+}
