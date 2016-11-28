@@ -7,3 +7,37 @@ Replace:
     left:$4%;
     top:$5%;
 }
+
+Search:
+<div class=\"day\" id=\"d([0-9]*)\">
+  <div class=\"grey\"></div>
+  <div class=\"day-img\"><img class=\"day-img\" src=\"empty_door.png\"></div>
+  <div class=\"notyet\"><img class=\"notyet\" src=\"not_yet.png\"></div>
+  <div class=\"obj-img\"><img class=\"obj-img\" src=\"(.*?)\/(.*?).png\"></div>
+  <a class=\"fancybox\" href=\"#fb([0-9]*)\"><div class=\"obj-link\"></div></a>
+  <div class=\"num\">([0-9]*)</div>
+  <div class="numb">([0-9]*)</div>
+</div>
+
+Replace:
+"day$1":{\n"img":"$2/$3.png\n}
+
+Search:
+[ ]*<div class="fbouter">
+[ ]*<div class="fbday" id="fb([0-9]*)">
+[ ]*<h1 class='info'>(.*)</h1>
+[ ]*<div class='infoimg'>
+[ ]*<a alt="More information" target="_top" href="(.*)"><img class='infoimg' alt="(.*)" src='(.*)'></a>
+[ ]*</div>
+[ ]*<div class='infotxt'>
+[ ]*<p class='notes'>(.*)</p>
+[ ]*</div>
+[ ]*<div class='fbclear'></div>
+[ ]*</div>
+[ ]*</div>
+
+Replace:
+"name":$2,
+"infolink":$3,
+"imgsrc":$5,
+"text":$6

@@ -51,7 +51,7 @@ div.title{
     width:100%;
     z-index:90;
     text-align:center;
-    display:none;
+    display:block;
 }
 
 span.title{
