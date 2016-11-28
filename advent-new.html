@@ -45,11 +45,14 @@
       var adv = new advent()
       adv.date = new Date();
       adv.yy = adv.date.getFullYear();
-      adv.mm = adv.date.getMonth(); //month is 0-11 (so 11 is December)
+      adv.mm = adv.date.getMonth()+1; //getMonth() returns [0-11] (so ad 1)
       adv.dd = adv.date.getDate();
       adv.months = new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec");
-      adv.mm=11;
+      // Force the date to be 5 Dec 2016
+      adv.yy=2016;
+      adv.mm=12;
       adv.dd=5;
+      //
       adv.datestr=adv.dd+'-'+adv.months[adv.mm]+'-'+adv.yy
       $('span.date').html(adv.datestr)
 

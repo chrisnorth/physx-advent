@@ -148,12 +148,13 @@ advent.prototype.makeimgs = function(){
         bgimg.append(infobox);
     }
 
+    // figure out which images are today
     $('div.day').each(function(i){
 	daynum=$(this).find('.num').html()
 	if (_ad.yy != thisyear){
 	    $(this).addClass('past').removeClass('future')
 	    //console.log(daynum+' past (later year)')
-	} else if (_ad.mm == 11){ //month is 0-11 (so 11 is December)
+	} else if (_ad.mm == 12){
 	    //console.log(mm)
 	    if (daynum < _ad.dd){
 		$(this).addClass('past').removeClass('future')
@@ -179,17 +180,16 @@ advent.prototype.makeimgs = function(){
 
     });
 
+    //define links
     $('div.today').on("mouseenter mousedown",function(){
 	$(this).addClass('open').removeClass('closed')
 	$(this).find('.obj-img').fadeIn(500)
 	$(this).find('div.obj-link').css({
 	    "display":"block"
 	})
-	/*$(this).find('.numb').css({
-	    "font-size":"2em"
-	})*/
     })
 
+    // set fancybox settings
     $(document).find(".fancybox").fancybox({
 	'transitionIn': 'fade',
        	'transitionOut': 'fade',
