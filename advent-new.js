@@ -12,6 +12,10 @@ advent.prototype.scaleimg = function(){
     var scalex=w/el.outerWidth();
     var scaley=h/el.outerHeight();
     var scale = (scalex < scaley ? scalex : scaley);
+    // var scale=scaley;
+    this.scale=scale;
+    this.scalex=scalex;
+    this.scaley=scaley;
     //console.log(w,h,scale);
 
     /*el.css({
@@ -41,22 +45,23 @@ advent.prototype.scaleimg = function(){
 	"width":bgw+"px"
     })
 
-    $(".herlogo").css({
-	"width":Math.round(parseFloat($(".herlogo").css("width"))*scale)+"px",
-	"left":Math.round(parseFloat($(".herlogo").css("left"))*scale)+"px",
-	"top":Math.round(parseFloat($(".herlogo").css("top"))*scale)+"px"
+    $(".logo").css({
+	"width":Math.round(parseFloat($(".logo").css("width"))*scale)+"px",
+	"left":Math.round(parseFloat($(".logo").css("left"))*scale)+"px",
+	"top":Math.round(parseFloat($(".logo").css("top"))*scale)+"px"
     })
 
     $("div.title").css({
 	"font-size":parseFloat($(".title").css("font-size"))*scale+"px",
-	"left":Math.round(this.ml+parseFloat($(".herlogo").css("width")))+"px",
-	"width":Math.round(bgw - 2* parseFloat($(".herlogo").css("width")))+"px"
+	// "left":Math.round(this.ml+parseFloat($(".logo").css("width")))+"px",
+    // "height":Math.round(parseFloat($(".title").css("height"))*scale)+"px",
+	"width":Math.round(bgw - 2* parseFloat($(".logo").css("width")))+"px"
     })
 
-    //$("span.title").css({
-	//"margin-left":Math.round(parseFloat($(".herlogo").css("width")))+"px"
-	//"width":Math.round(bgw - parseFloat($(".herlogo").css("width")))+"px"
-    //})
+    // $("span.title").css({
+	// "margin-left":Math.round(parseFloat($(".logo").css("width")))+"px",
+	// "width":Math.round(bgw - parseFloat($(".logo").css("width")))+"px"
+    // })
 
     if ($(".title").css("display") != "none"){
 	////console.log(title.css("display"));
@@ -69,17 +74,25 @@ advent.prototype.scaleimg = function(){
 	daynum=$(this).find('.num').html()
 	//console.log($(this),$(this).css("left"),$(this).css("top"),daynum);
 	$(this).css({
-	    "left":(parseFloat($(this).css("left"))*scale)+"px",
-	    "top":(parseFloat($(this).css("top"))*scale)+"px",
-	    "width":(parseFloat($(this).css("width"))*scale)+"px",
-	    "height":(parseFloat($(this).css("height"))*scale)+"px",
+	    // "left":(parseFloat($(this).css("left"))*scale)+"px",
+	    // "top":(parseFloat($(this).css("top"))*scale)+"px",
+	    // "width":(parseFloat($(this).css("width"))*scale)+"px",
+	    // "height":(parseFloat($(this).css("height"))*scale)+"px",
 	    //"z-index":20,
 	    //"border":"1px red solid"
 	})
-	if ($(this).hasClass("past")){
+	if (($(this).hasClass("past"))||($(this).hasClass("today"))){
 	    //console.log('in past')
+        console.log(parseFloat($(this).find(".num").css("line-height")));
 	    $(this).find(".num").css({
-		"left":(parseFloat($(this).css("width"))*scale)+"px"
+		// "left":(parseFloat($(this).css("width"))*scale)+"px",
+        // "font-size":(parseFloat($(this).css("font-size"))*(scale))+"px",
+        // "line-height":(parseFloat($(this).css("line-height"))*(scale))+"px"
+	    })
+        console.log($(this).find(".num").css("line-height"));
+        $(this).find(".numb").css({
+		// "left":(parseFloat($(this).css("width"))*scale)+"px",
+        // "font-size":(parseFloat($(this).css("font-size"))*(scale))+"px"
 	    })
 	};
     });
@@ -103,6 +116,7 @@ advent.prototype.setup = function(){
     $.getJSON(_ad.dayinfo_url,function(data){
         _ad.daydata=data;
         _ad.makeimgs();
+        _ad.scaleimg();
     })
 
     console.log('set up');
@@ -122,13 +136,15 @@ advent.prototype.makeimgs = function(){
         '<div class="day" id="d'+d.n+'">\n'+
         '<div class="grey"></div>\n'+
         '<div class="day-img"><img class="day-img" src="empty_door.png"></div>\n'+
-      	'<div class="notyet"><img class="notyet" src="not_yet.png"></div>\n'+
+      	'<div class="notyet">'+
+        // '<img class="notyet" src="not_yet.png">'+
+        '</div>\n'+
       	'<div class="obj-img"><img class="obj-img" src="'+d.thumbsrc+'"></div>\n'+
       	'<a class="fancybox" href="#fb'+d.n+'">\n'+
         '<div class="obj-link"></div></a>\n'+
-      	'<div class="num">'+d.n+'</div>\n'+
-        '<div class="numb">'+d.n+'</div></a>\n'+
-      	'</div>\n\n';
+      	'<div class="numb">'+d.n+'</div></a>\n'+
+        '<div class="num">'+d.n+'</div>\n'+
+        '</div>\n\n';
 
         // infobox='<div class="fbouter">\n'+
     	// '  <div class="fbday" id="fb'+d.n+'">\n'+

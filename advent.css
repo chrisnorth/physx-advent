@@ -25,7 +25,8 @@ div.advent{
 
 .bgimg img.bg{
     top:2em;
-    width:100%;
+    width:720px;
+    height:1000px;
     z-index:1
 }
 
@@ -46,35 +47,47 @@ div.title-bg{
 div.title{
     border: none;
     position:absolute;
-    left:0px;
-    top:0px;
+    left:2%;
+    top:2%;
     width:100%;
+    height:5%;
     z-index:90;
-    text-align:center;
+    text-align:left;
     display:block;
 }
 
+div.logo{
+    height:100%;
+    display:inline-block;
+}
+div.logo img{
+    height:100%;
+    background-color: white;
+    border:solid white 5px;
+}
 span.title{
     color:#fff;
     margin-left:auto;
     margin-right:auto;
-    text-align:center;
-    line-height:75px;
+    text-align:left;
+    padding-left:10px;
+    vertical-align: top;
     font-size:2em;
 }
 
 div.date{
+    display:inline-block;
     position:absolute;
-    /*top:1.5em;*/
-    top:0.25em;
-    right:0px;
-    width:150px;
+    top:2%;
+    right:2%;
+    vertical-align:top;
 }
 
 span.date{
-    font-size:1em;
-    text-align:center;
-    line-height:75px;
+    font-size:2em;
+    text-align:right;
+    vertical-align:top;
+    padding-right:10px;
 }
 
 /*DEFAULT BOX STYLE (FUTURE DAYS)*/
@@ -109,7 +122,7 @@ div.obj-img img{
 }
 
 div.future{
-    border:dashed #fff 1px;
+    border:dashed #fff 5px;
 }
 
 div.future div.obj-img{
@@ -121,19 +134,24 @@ div.future .num{
 }
 div.future .numb{
     position:absolute;
-    font-size:2em;
+    /*font-weight:bold;*/
+    font-size:40px;
     z-index:90;
-    opacity:0;
     color:#fff;
     transition:all 250ms linear;
     -moz-transition:all 250ms linear;
     -webkit-transition:all 250ms linear;
     -o-transition:all 250ms linear;
     cursor:default;
-    right:0px;
+    right:5%;
     top:0px;
-    padding-right:3px;
-    padding-left:3px;
+    padding-right:3%;
+    padding-left:3%;
+    left:0px;
+    bottom:5%;
+    text-align:right;
+    line-height:100%;
+    opacity:0.1;
 }
 
 div.future:hover .numb{
@@ -172,23 +190,23 @@ div.past{
 
 div.past .num{
     position:absolute;
+    font-weight:bold;
+    font-size:40px;
+    z-index:90;
     color:#fff;
-    right:0px;
-    top:0px;
-    cursor:pointer;
-    font-size:2em;
-    opacity:1.;
     transition:all 250ms linear;
     -moz-transition:all 250ms linear;
     -webkit-transition:all 250ms linear;
     -o-transition:all 250ms linear;
-    z-index:80;
-    display:block;
-    bottom:0px;
+    cursor:default;
+    right:5%;
+    top:0px;
+    padding-right:3%;
+    padding-left:3%;
     left:0px;
-    line-height:70px;
-    text-align:center;
-    font-weight:bold;
+    bottom:5%;
+    text-align:right;
+    line-height:100%;
 }
 
 div.past .numb{
@@ -208,7 +226,7 @@ div.past div.obj-img{
     display:block;
     z-index:80;
     background-color:black;
-    border:solid #ffffff 1px;
+    border:solid #ffffff 5px;
     width:100%;
     height:100%;
 }
@@ -258,7 +276,7 @@ div.today .num{
 div.today .numb{
     position:absolute;
     font-weight:bold;
-    font-size:2em;
+    font-size:40px;
     z-index:90;
     color:#fff;
     transition:all 250ms linear;
@@ -266,38 +284,38 @@ div.today .numb{
     -webkit-transition:all 250ms linear;
     -o-transition:all 250ms linear;
     cursor:default;
-    right:0px;
+    right:5%;
     top:0px;
-    padding-right:3px;
-    padding-left:3px;
+    padding-right:3%;
+    padding-left:3%;
     left:0px;
-    bottom:0px;
-    text-align:center;
-    line-height:70px;
+    bottom:5%;
+    text-align:right;
+    line-height:100%;
 }
 
 div.closed .numb{
-    opacity:0;
+    opacity:0.1;
 }
 div.open .numb{
-    font-size:2em;
+    /*font-size:2em;*/
     opacity:1.;
 }
 
 div.open{
     /*border:1px solid #ff5555;*/
     /*box-shadow:0 0 10px black;*/
-    -moz-box-shadow:0 0 4px white;
-    -webkit-box-shadow:0 0 4px white;
-    -o-box-shadow:0 0 4px white;
+    -moz-box-shadow:0 0 10px white;
+    -webkit-box-shadow:0 0 10px white;
+    -o-box-shadow:0 0 10px white;
 }
 
 div.closed{
-    border:dashed #fff 1px;
+    border:dashed #fff 5px;
 }
 
 div.open{
-    border:solid #fff 1px;
+    border:solid #fff 5px;
 }
 div.closed:hover .numb{
     opacity:1;
