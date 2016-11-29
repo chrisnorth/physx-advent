@@ -55,7 +55,7 @@ advent.prototype.scaleimg = function(){
 	"font-size":parseFloat($(".title").css("font-size"))*scale+"px",
 	// "left":Math.round(this.ml+parseFloat($(".logo").css("width")))+"px",
     // "height":Math.round(parseFloat($(".title").css("height"))*scale)+"px",
-	"width":Math.round(bgw -  1*parseFloat($(".logo").css("width")))+"px"
+	"width":Math.round(bgw)+"px"
     })
 
     // $("span.title").css({
