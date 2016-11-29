@@ -1,28 +1,30 @@
 {
 "day1":{
   "n":"1",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"Nobel Prizes",
-  "infolink":"",
-  "imgsrc":"images/blank.jpg",
-  "text":"In terms of what happened in 2016, we can get the standard stuff out of the way immediately. The Nobel Prize in Physics 2016 was divided, one half awarded to David J. Thouless, the other half jointly to F. Duncan M. Haldane and J. Michael Kosterlitz \"for theoretical discoveries of topological phase transitions and topological phases of matter\".<br><br>"
+  "thumbsrc":"thumbs/gw.jpg",
+  "name":"The search for gravitational waves",
+  "infolink":"https://www.ligo.caltech.edu/news/ligo20160211",
+  "imgsrc":"images/gw.jpg",
+  "imgcredit":"LIGO",
+  "text":"The search for gravitational waves has been on for decades, ever since physicists realised that there might be a way to detect the elusive ripples in space-time that Einstein predicted 100 years ago.</p><p>In February 2016 it was announced that the LIGO experiment had succesfully detected gravitational waves from the merger of two massive black holes about a billion light years away. LIGO, the Laser Interferometer Gravitational wave Observatory, uses a powerful laser and a 'L'-shaped arrangement of mirrors to detect miniscule distortions in space.</p><p>The gravitational physics group in  has been involved in the search for decades, particularly in the areas of simulating the gravitational wave signal from merging black holes, and in the process of extracting the signal from the noise.</p><p>The signal was actually detected back in September 2015, meaning that last Christmas was rather busy for all our colleagues in LIGO..."
 },
 
 "day2":{
   "n":"2",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
-},
-
-"day3":{
-  "n":"3",
   "thumbsrc":"thumbs/solar-cells.jpg",
   "name":"Making more efficient solar cells",
   "infolink":"http://www.astro.cf.ac.uk/newsandevents/?page=news_detail&news=0213",
   "imgsrc":"images/solar-cells.jpg",
+  "imgcredit":"ESRF/P. Ginter",
+  "text":"This time of year, at least in the UK, is when the Sun is at its lowest, and the days are at their shortest. It follows that it's all the more important to have more efficient solar power cells.</p><p>Solar cells are currently made from silicon, but over recent years other materials have started to compete in terms of efficiency and cost. One such new type of materials are perovskite-structured crystals, which are the fastest-evolving technology around.</p><p>Cardiff physicists are part of an international group trying to understand perovskite-structured materials in order to make larger, more efficient solar cells. To do this they used the European Synchroton Radiation Facility in Genoble, France, to fire x-rays at samples and reveal their structure.</p><p>The results are helping guide the further development of low-cost materials for efficient large-area solar cells, and could be crucial for the future progress of the field of solar power generation."
+},
+
+"day3":{
+  "n":"3",
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"INSERT NAME",
+  "infolink":"INSERT LINK",
+  "imgsrc":"images/blank.jpg",
   "text":"REPLACE TEXT"
 },
 
@@ -73,10 +75,10 @@
 
 "day9":{
   "n":"9",
-  "thumbsrc":"thumbs/gw.jpg",
-  "name":"The search for gravitational waves",
-  "infolink":"https://www.ligo.caltech.edu/news/ligo20160211",
-  "imgsrc":"images/gw.jpg",
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"INSERT NAME",
+  "infolink":"INSERT IMAGE",
+  "imgsrc":"images/blank.jpg",
   "text":"REPLACE TEXT"
 },
 
