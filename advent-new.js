@@ -45,6 +45,11 @@ advent.prototype.scaleimg = function(){
 	"width":bgw+"px"
     })
 
+    $("img.bg").css({
+	"height":parseFloat($("img.bg").css("height"))*scale+"px",
+    "width":parseFloat($("img.bg").css("width"))*scale+"px",
+	})
+
     $(".logo").css({
 	// "width":Math.round(parseFloat($(".logo").css("width"))*scale)+"px",
 	"left":Math.round(parseFloat($(".logo").css("left"))*scale)+"px",
