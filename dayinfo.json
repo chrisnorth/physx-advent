@@ -21,11 +21,12 @@
 
 "day3":{
   "n":"3",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "thumbsrc":"thumbs/feeding-bh.jpg",
+  "name":"Nom Nom Nom...",
+  "infolink":"http://www.eso.org/public/news/eso1618/",
+  "imgsrc":"images/feeding-bh.jpg",
+  "imgcredit":"NRAO/AUI/NSF; Dana Berry/SkyWorks; ALMA (ESO/NAOJ/NRAO)",
+  "text":"Many people associate this time of year with indulgence, and in particular the consumption of large amounts of food. But have a care for the hungriest objects in the Uninverse - black holes.</p><p>At the heart of every large galaxy lurks a monster: a <a href='https://en.wikipedia.org/wiki/Supermassive_black_hole'>supermassive black hole</a> millions - or sometimes billions - of times the mass of our Sun. Astronomers know that these behemoths consume matter that gathers around them and spirals in, but it's rare to see it happening.</p><p>In 2016, a team of astromomers using the <a href='http://www.eso.org/alma'>ALMA</a> telescope in Chile observed a towering clouds of interstellar of gas falling into a black hole in the centre of a galaxy around a billion light years away. Each cloud contains a million Sun's worth of gas, is tens of light years across, and is tearing towards the black hole a a million km per hour.</p><p>The unprecedented resolution afforded by the ALMA telescope means that the hunt is on for more feeding black holes."
 },
 
 "day4":{
@@ -111,10 +112,10 @@
 
 "day13":{
   "n":"13",
-  "thumbsrc":"thumbs/feeding-bh.jpg",
-  "name":"Nom Nom Nom...",
-  "infolink":"http://www.eso.org/public/news/eso1618/",
-  "imgsrc":"images/feeding-bh.jpg",
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"INSERT NAME",
+  "infolink":"INSERT LINK",
+  "imgsrc":"images/blank.jpg",
   "text":"REPLACE TEXT"
 },
 
