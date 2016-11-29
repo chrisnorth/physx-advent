@@ -130,15 +130,33 @@ advent.prototype.makeimgs = function(){
         '<div class="numb">'+d.n+'</div></a>\n'+
       	'</div>\n\n';
 
+        // infobox='<div class="fbouter">\n'+
+    	// '  <div class="fbday" id="fb'+d.n+'">\n'+
+    	// '    <h1 class="info">'+d.name+'</h1>\n'+
+    	// '    <div class="infoimg">'+
+    	// '<a alt="More information" target="_top" href="'+d.infolink+'">'+
+        // '<img class="infoimg" alt="'+d.name+'" src="'+d.imgsrc+'"></a>'+
+    	// '</div>\n'+
+    	// '    <div class="infotxt">\n'+
+        // '      <p class="notes">'+d.text+'</p>'+
+        // '<p class="more"><a alt="More information" target="_blank" href="'+d.infolink+'">Read more...</a></p>\n'+
+    	// '    </div>\n'+
+    	// '    <div class="fbclear"></div>\n'+
+    	// '  </div>\n'+
+    	// '</div>\n\n';
         infobox='<div class="fbouter">\n'+
     	'  <div class="fbday" id="fb'+d.n+'">\n'+
     	'    <h1 class="info">'+d.name+'</h1>\n'+
-    	'    <div class="infoimg">'+
-    	'<a alt="More information" target="_top" href="'+d.infolink+'">'+
-        '<img class="infoimg" alt="'+d.name+'" src="'+d.imgsrc+'"></a>'+
-    	'</div>\n'+
-    	'    <div class="infotxt">\n'+
-        '      <p class="notes">'+d.text+'</p>'+
+        '    <div class="infotxt">\n'+
+        '      <div class="infoimg">'+
+    	'        <a alt="More information" target="_top" href="'+d.infolink+'">'+
+        '<img class="infoimg" alt="'+d.name+'" src="'+d.imgsrc+'"></a>'
+        if (d.imgcredit){
+            infobox=infobox+
+            '<p class="credit">Credit: '+d.imgcredit+'</p>'
+        }
+        infobox=infobox+'</div>'+
+    	'      <p class="notes">'+d.text+'</p>'+
         '<p class="more"><a alt="More information" target="_blank" href="'+d.infolink+'">Read more...</a></p>\n'+
     	'    </div>\n'+
     	'    <div class="fbclear"></div>\n'+
