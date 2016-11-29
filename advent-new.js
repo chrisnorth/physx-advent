@@ -46,7 +46,7 @@ advent.prototype.scaleimg = function(){
     })
 
     $(".logo").css({
-	"width":Math.round(parseFloat($(".logo").css("width"))*scale)+"px",
+	// "width":Math.round(parseFloat($(".logo").css("width"))*scale)+"px",
 	"left":Math.round(parseFloat($(".logo").css("left"))*scale)+"px",
 	"top":Math.round(parseFloat($(".logo").css("top"))*scale)+"px"
     })
@@ -55,7 +55,7 @@ advent.prototype.scaleimg = function(){
 	"font-size":parseFloat($(".title").css("font-size"))*scale+"px",
 	// "left":Math.round(this.ml+parseFloat($(".logo").css("width")))+"px",
     // "height":Math.round(parseFloat($(".title").css("height"))*scale)+"px",
-	"width":Math.round(bgw - 2* parseFloat($(".logo").css("width")))+"px"
+	"width":Math.round(bgw -  1*parseFloat($(".logo").css("width")))+"px"
     })
 
     // $("span.title").css({
