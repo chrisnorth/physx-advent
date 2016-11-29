@@ -77,7 +77,7 @@ span.title{
 
 div.date{
     display:inline-block;
-    position:absolute;
+    float:right;
     top:2%;
     right:2%;
     vertical-align:top;
