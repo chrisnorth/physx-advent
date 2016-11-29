@@ -219,10 +219,11 @@
 
 "day25":{
   "n":"25",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"Happy Birthday Sir Isaac!",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "thumbsrc":"thumbs/black-holes.jpg",
+  "name":"Last year's Christmas Surprise!",
+  "infolink":"http://www.astro.cf.ac.uk/newsandevents/?page=news_detail&news=0205",
+  "imgsrc":"images/black-holes.jpg",
+  "imgcredit":"<a href='http://chrisnorth.github.io/plotgw/bhbubble.html'>LIGO/C. North</a>",
+  "text":"Cast your mind back to late evening on Christmas Day 2015. You may well have been settling into bed after a day of indulgence, but not everyone was on holiday. Over in the United States, the people looking after the twin <a href='http://ligo.org'>LIGO</a> detectors in <a href='https://www.ligo.caltech.edu/LA'>Livingston (Louisiana)</a> and <a href='https://www.ligo.caltech.edu/WA'>Hanford (Washington)</a> got a last-minute surprise present.</p><p>At about 10:40pm in Livingston, and 6:40 in Hanford, the alerts came up that LIGO have made another detection. Of course, here in the UK it was already Boxing Day, and since the scientific standard is \"<i>Universal Time</i>\" (which is the same as GMT), this became known as the \"<a href='https://losc.ligo.org/events/GW151226/'>Boxing Day event</a>\".</p><p>With most of the LIGO team busy with the first detection, which had arrived back in September 2015, the analysis took a little while. In June 2016, the LIGO team announced their <a href='http://chrisnorth.github.io/plotgw/'>catalogue</a> of sources. With two firm detections of gravitational waves, and a third less-firm candidate, the era of gravitational wave astronomy as truly begun."
   }
 }
