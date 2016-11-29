@@ -58,11 +58,11 @@
 
 "day7":{
   "n":"7",
-  "thumbsrc":"thumbs/chicken-egg.jpg",
-  "name":"Chicken or egg?",
-  "infolink":"http://physicsworld.com/cws/article/news/2016/may/02/laser-spectroscopy-determines-sex-of-a-chicken-egg",
-  "imgsrc":"images/chicken-egg.jpg",
-  "text":"Here's a million-dollar question for you, which came first, the chicken or the egg? The boring answer is the egg, since reptiles were laying eggs tens of millions of years before chickens even existed. But if we follow a less boring answer then we might ask which came first - the <i>female chicken</i> or the egg - after all, what good is an egg if it hatches into a male chicken (no more eggs!).<br><br>To answer this question (not really!) researchers in Dresden used a laser to determine the sex of chicken embryos when still in their egg. It turns out that this really is an important question for egg producers. Sadly, male chicks don't have much going for them, so by determining their sex early on they don't have to hatch, only to be...well...slaughtered, quite frankly.<br><br>So if that doesn't get you in a seasonal mood, I'm not sure what will!"
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"INSERT NAME",
+  "infolink":"INSERT LINK",
+  "imgsrc":"images/blank.jpg",
+  "text":"INSERT TEXT"
   },
 
 "day8":{
