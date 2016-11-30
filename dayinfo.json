@@ -49,11 +49,11 @@
 
 "day6":{
   "n":"6",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "thumbsrc":"thumbs/planck-dust.jpg",
+  "name":"Summer Science with Planck",
+  "infolink":"https://royalsociety.org/science-events-and-lectures/summer-science-exhibition/exhibits/what-happened-big-bang/",
+  "imgsrc":"images/planck-dust.jpg",
+  "text":"The summer seems a long time ago now, but every year the Royal Society holds a Summer Science Exhibition in London. This is a prestigious and competitive event, and we've had quite a lot of success over recent years. In 2016, our contribution was the latest results from the <a href='http://www.esa.int/planck'>Planck satellite</a>, along with colleagues from Manchester, Cambridge and Imperial College London.</p><p>The latest results from Planck help us understand much more about the early history of the Universe, and also highlight many of the processes taking place in our own Milky Way galaxy. Visitors to the exhibit could play with interactive apps such as <a href='http://www.chromoscope.net/planck'>Planckoscope</a> and our <a href='http://chrisnorth.github.io/planckapps/Simulator/'>CMB Simulator</a>, and even put themselves in Planck's shoes (thrusters?) on an Occulus Rift.</p><p>There was one last hurrah, when we were also able to take the exhibit up to Manchester Science Festival for another outing."
 },
 
 "day7":{
