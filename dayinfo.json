@@ -31,11 +31,12 @@
 
 "day4":{
   "n":"4",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"LHC",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT - Chris"
+  "thumbsrc":"thumbs/cern.jpg",
+  "name":"Colliding particles",
+  "infolink":"http://phys.org/news/2016-11-lhc-colliding-proton-heavy-ions.html",
+  "imgsrc":"images/cern.jpg",
+  "imgcredit":"CERN",
+  "text":"The <a href='http://home.cern/topics/large-hadron-collider'>Large Hadron Collider</a> is one of the most complicated particle physics experiments ever built. Since it's full startup in 2009 (after a \"quenching\" incident in 2008) it has been gradually increasing the speed, and therefore energy, of the particles it is crashing together.</p><p>The particles, normally protons, are accelerated to almost the speed of light which whizzing round the 27km-circumference circuit. When they collide, the energy produced rivals those near the start of the Universe, and lets physicists learn more about the fundamental building blocks of nature.</p><p>More recently, the experiment has started colliding lead nuclei with protons, which are over 200 times more massive than protons, and carry 82 times the charge. While they can't reach is high energies as the protons, the \"imbalance\" in the collisions allows the experiment to probe deeper down into the fabric of the Universe - the \"<a href='https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma'>quark-gluon plasma</a>\"."
 },
 
 "day5":{
