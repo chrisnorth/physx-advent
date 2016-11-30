@@ -104,23 +104,24 @@
   "text":"For over five years now, the Pythagoras' Trousers radio show has been gracing the air-waves of south-east Wales on Radio Cardiff. The weekly science and technology show is hosted by <a href='http://www.rhysphillips.co.uk/'>Rhys Phillips</a>, but once a month <a href='http://blogs.cardiff.ac.uk/chrisnorth'</a>Dr Chris North</a> and <a href='https://lco.global/user/egomez/'>Dr Edward Gomez</a> present an astronomy slot.</p><p>Including the latest astronomy news, as well as interviews with astronomers from all over the UK and around the the world, the extended version of the \"Pythagorean Astronomy\" is available on this blog every month.</p><p>The November 2016 episode included the Cassini spacecraft, the roundest known star, and the <a href='http://gleam.icrar.org/'>GLEAM</a> radio survey. Or why not listen to something from the back catalogue, from the <a href='http://blogs.cardiff.ac.uk/physicsoutreach/2016/09/26/pythagorean-astronomy-rosetta-osiris-rex/'>end of the Rosetta mission</a>, the <a href='http://blogs.cardiff.ac.uk/physicsoutreach/2016/02/25/pythagorean-astronomy-the-voice-of-einstein/'>discovery of graviational waves</a>, or <a href='http://blogs.cardiff.ac.uk/physicsoutreach/2016/06/30/pythagorean-astronomy-the-origins-of-black-holes/'>the origins of black holes</a>?"
   },
 
+
 "day12":{
   "n":"12",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"Tim Peake",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT - Brychan"
-},
-
-"day13":{
-  "n":"13",
   "thumbsrc":"thumbs/lipid-bilayer.jpg",
   "name":"Lipid Bilayers",
   "infolink":"http://www.sparknotes.com/biology/cellstructure/cellmembranes/section1.html",
   "imgsrc":"images/lipid-bilayer.jpg",
   "imgcredit":"David Regan/Cardiff University. <a href='images/lipid-bilayer-large.png'>Larger version</a>",
   "text":"To the untrained eye this picture looks like a bit of crinkled wrapping paper, but in fact it shows a microscope image of a synthetic lipid bilayer (a double layer of lipid, or fatty, molecules). The image is around a third of a millimetre across, and shows the bilayer in the process of freezing from its fluid state into a more rigid and ordered solid state. The solid-ordered regions push out the fluorescent \"label\" which makes the four-nanometre-thick bilayer visible, and so they appear as dark hexagons or lines crisscrossing the surface. Lipid bilayers are important because they form the basis of the cell membrane, a thin barrier which separates the cell interior from its environment.</p><p>The physical properties of the lipid bilayer affect a wide range of cellular processes. One highly controversial area in which the physics of the lipid bilayer is particularly important is the lipid raft hypothesis which suggests that there are small domains with high molecular order called rafts \"floating\" in the surrounding sea of liquid phase lipids. The biophysical properties of these rafts have been implicated in signalling between neighbouring cells, the mechanism of HIV infection of cells, and cancer cell resistance to chemotherapy drugs.</p><p>Fluorescently labelled lipids are commonly used in investigations of bilayer phase behaviour to make the different phases bilayers visible with a microscope. In this experiment, the result of a long-standing collaboration between physics and biosciences at Cardiff, it was found that the very presence of a label alters the phase behaviour, thus making understanding the process all the more important."
+},
+
+"day13":{
+  "n":"13",
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"Tim Peake",
+  "infolink":"INSERT LINK",
+  "imgsrc":"images/blank.jpg",
+  "text":"REPLACE TEXT - Brychan"
 },
 
 "day14":{
