@@ -175,7 +175,7 @@ div.future:hover .numb{
     opacity:1;
 }
 
-div.future div.notyet{
+div.day div.notyet{
     position:absolute;
     display:block;
     width:100%;
@@ -259,8 +259,12 @@ div.past .obj-link{
     z-index:99;
 }
 
-div.past div.notyet{
-    display:none;
+/*div.past div.notyet{
+    display:block;
+}*/
+
+div.day .num.over, div.day .numb.over{
+    font-size:4em;
 }
 
 div.past .grey{
@@ -279,7 +283,11 @@ div.today{
     cursor:pointer;
 }
 
-div.open{
+div.day.today .grey{
+    /*background-color:white;*/
+}
+
+div.today.open{
     /*border:1px solid #ff5555;*/
     box-shadow:0 0 50px white;
     -moz-box-shadow:0 0 4px white;
@@ -319,7 +327,7 @@ div.open .numb{
     opacity:1.;
 }
 
-div.open{
+div.today{
     /*border:1px solid #ff5555;*/
     /*box-shadow:0 0 10px black;*/
     -moz-box-shadow:0 0 10px white;
@@ -328,6 +336,7 @@ div.open{
 }
 
 div.closed{
+    /*background-color:#ffffff55;*/
     border:dashed #fff 5px;
 }
 

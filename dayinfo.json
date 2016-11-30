@@ -46,9 +46,7 @@ The team’s research has now found that the inscriptions refer not only to the 
   "name":"Mission to a comet",
   "infolink":"http://rosetta.esa.int",
   "imgsrc":"images/rosetta.jpg",
-  "text":"This year was the end of the 12 year <a href='http://www.esa.int/Our_Activities/Space_Science/Rosetta' target='_blank'>Rosetta mission</a> to comet 67P/Churyumov–Gerasimenko. After an eventful 10 year journey including 1 Mars, 2 asteroid and 3 Earth flybys the craft took up orbit around the target comet. In subsequent months Rosetta undertook numerous scientific examinations of the comet and deployed the ill fated Philae lander. Despite its short time of activity on the surface Philae still managed to provide valuable information about the composition of the atmosphere and surface of the comet.
-
-On September 30th 2016 after sending a... Pharaoh... load of data about the comet, including the isotropic composition of the water vapour in the comets atmosphere, to mission control in Darmstadt, Rosetta finally finished its mission in a controlled descent into a pit called Deir el-Medina."
+  "text":"This year was the end of the 12 year <a href='http://www.esa.int/Our_Activities/Space_Science/Rosetta' target='_blank'>Rosetta mission</a> to comet 67P/Churyumov–Gerasimenko. After an eventful 10 year journey including 1 Mars, 2 asteroid and 3 Earth flybys the craft took up orbit around the target comet. In subsequent months Rosetta undertook numerous scientific examinations of the comet and deployed the ill fated Philae lander. Despite its short time of activity on the surface Philae still managed to provide valuable information about the composition of the atmosphere and surface of the comet.</p><p>On September 30th 2016 after sending a... Pharaoh... load of data about the comet, including the isotropic composition of the water vapour in the comets atmosphere, to mission control in Darmstadt, Rosetta finally finished its mission in a controlled descent into a pit called Deir el-Medina."
 },
 
   "day6":{
@@ -66,32 +64,26 @@ On September 30th 2016 after sending a... Pharaoh... load of data about the com
   "name":"Interstellar Chirality",
   "infolink":"http://physicsworld.com/cws/article/news/2016/jun/14/chiral-molecules-spotted-in-interstellar-cloud",
   "imgsrc":"images/chiral.jpg",
-  "text":"Twinkle twinkle, little star, How I wonder what chirality the molecules in the interstellar dust clouds between you are.
-<br>
-With the discovery of <a href=http://physicsworld.com/cws/article/news/2016/jun/14/chiral-molecules-spotted-in-interstellar-cloud' target='_blank'>chiral molecules in interstellar dust clouds</a> this year, scientists have moved closer to understanding how life on Earth first formed. Chiral molecules, which play crucial roles in the chemistry of life, exist in two different structures that are mirror images of each other, and just like human hands are referred to in terms of their right- and left-handedness.
-<br>
-This discovery was the first time these biologically important molecules were detected beyond our solar system, and although the type of molecule detected (propylene oxide) is not a biological one, its discovery suggests that they could exist in the depths of space. Chirality is an important property of life and most biological processes are 'homochiral' – they are highly selective in terms of the handedness of the molecules involved. For example, most amino acids found in living organisms are left-handed, whereas most sugars produced by nature are right-handed.
-<br>
-Many scientists believe that chiral molecules were an important 'prebiotic' precursor to life. Chiral molecules older than the Earth itself have been spotted in meteors and comets, which suggests that life may have extraterrestrial origins. As a result, astrobiologists studying the possible emergence of life on other planets are keen to understand where prebiotic chiral molecules are formed in the universe."
+  "text":"Twinkle twinkle, little star, How I wonder what chirality the molecules in the interstellar dust clouds between you are.<br>With the discovery of <a href='http://physicsworld.com/cws/article/news/2016/jun/14/chiral-molecules-spotted-in-interstellar-cloud' target='_blank'>chiral molecules in interstellar dust clouds</a> this year, scientists have moved closer to understanding how life on Earth first formed. Chiral molecules, which play crucial roles in the chemistry of life, exist in two different structures that are mirror images of each other, and just like human hands are referred to in terms of their right- and left-handedness.</p><p>This discovery was the first time these biologically important molecules were detected beyond our solar system, and although the type of molecule detected (propylene oxide) is not a biological one, its discovery suggests that they could exist in the depths of space. Chirality is an important property of life and most biological processes are 'homochiral' – they are highly selective in terms of the handedness of the molecules involved. For example, most amino acids found in living organisms are left-handed, whereas most sugars produced by nature are right-handed.</p><p>Many scientists believe that chiral molecules were an important 'prebiotic' precursor to life. Chiral molecules older than the Earth itself have been spotted in meteors and comets, which suggests that life may have extraterrestrial origins. As a result, astrobiologists studying the possible emergence of life on other planets are keen to understand where prebiotic chiral molecules are formed in the universe."
 
   },
 
   "day8":{
     "n":"8",
-    "thumbsrc":"thumbs/blank.jpg",
-    "name":"INSERT NAME",
-    "infolink":"INSERT LINK",
-    "imgsrc":"images/blank.jpg",
-    "text":"INSERT TEXT"
-},
+    "thumbsrc":"thumbs/logo_uitc.jpg",
+    "name":"Introducing our bright new STARS",
+    "infolink":"http://www.universe.wales/",
+    "imgsrc":"images/logo_uitc.jpg",
+    "text":"For three years, <a href='http://www.universe.wales/about'>Universe in the Classroom</a> has been running a successful voluntary role model scheme with BSc, MSc and PhD students from the Cardiff University Schools of Physics and Astronomy, and Mathematics. These <a href='http://www.universe.wales/stars'>Stellar Role Models</a>, or STARS, visit primary schools across Wales to help inspire and educate students using Astronomy.<br><br>We are now very proud to have 51 enthusiastic students acting as STEM role models for young welsh children. By taking part in the project, STEMM students offer a diverse pool of representatives; including Welsh-speakers, female scientists and a range of ethnic groups and backgrounds, who will tackle diversity and gender issues in science and technology across Wales and broaden young children’s ideas of who can be a scientist at an age where impressions can become fixed."
+  },
 
 "day9":{
   "n":"9",
-  "thumbsrc":"thumbs/logo_uitc.jpg",
-  "name":"Introducing our bright new STARS",
-  "infolink":"http://www.universe.wales/",
-  "imgsrc":"images/logo_uitc.jpg",
-  "text":"For three years, <a href='http://www.universe.wales/about'>Universe in the Classroom</a> has been running a successful voluntary role model scheme with BSc, MSc and PhD students from the Cardiff University Schools of Physics and Astronomy, and Mathematics. These <a href='http://www.universe.wales/stars'>Stellar Role Models</a>, or STARS, visit primary schools across Wales to help inspire and educate students using Astronomy.<br><br>We are now very proud to have 51 enthusiastic students acting as STEM role models for young welsh children. By taking part in the project, STEMM students offer a diverse pool of representatives; including Welsh-speakers, female scientists and a range of ethnic groups and backgrounds, who will tackle diversity and gender issues in science and technology across Wales and broaden young children’s ideas of who can be a scientist at an age where impressions can become fixed."
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"INSERT NAME",
+  "infolink":"INSERT LINK",
+  "imgsrc":"images/blank.jpg",
+  "text":"INSERT TEXT"
 },
 
 "day10":{
@@ -168,11 +160,12 @@ Many scientists believe that chiral molecules were an important 'prebiotic' prec
 
 "day18":{
   "n":"18",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "thumbsrc":"thumbs/steve-mould-gw.jpg",
+  "name":"Recreating Gravitational Waves",
+  "infolink":"<a href='https://www.youtube.com/watch?v=dw7U3BYMs4U'>YouTube/Steve Mould</a>",
+  "imgsrc":"images/steve-mould-gw.jpg",
+  "imgcredit":"<a href='https://www.youtube.com/watch?v=dw7U3BYMs4U'>YouTube/Steve Mould</a>",
+  "text":"Abstract physical concepts can be rather hard to demonstrate in an accessible way. Take gravity and the warping of space-time, for example. It's common for that to be demonstrated with a stretchy \"Universe\" pulled taught over a hula-hoop, and for a heavy weight to be placed in the middle.</p><p>That's all very well for recreating static gravitational fields, but what about gravitational waves? You'd need two objects to orbit in order to simulate the effect of a binary black hole - and I don't know about you but my arms dontend to get a bit tangled.</p><p>Luckily, science presentser <ahref='http://stevemould.com/'>Steve Mould</a> has given us the solution - and it involves power tools. Click the link below to see how Steve has recreated the gravitational waves from two orbiting black holes."
 },
 
 "day19":{
