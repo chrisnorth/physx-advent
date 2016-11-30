@@ -112,10 +112,10 @@ advent.prototype.scaleimg = function(){
 advent.prototype.setup = function(){
 
     //this.scaleimg()
-    console.log('setting up');
+    // console.log('setting up');
     var _ad=this;
     _ad.dayinfo_url="./dayinfo.json";
-    console.log(_ad.dayinfo_url);
+    // console.log(_ad.dayinfo_url);
     $.ajaxSetup({async:true,'beforeSend': function(xhr){
         // console.log(this);
         if (xhr.overrideMimeType) xhr.overrideMimeType("text/plain"); },
@@ -129,7 +129,7 @@ advent.prototype.setup = function(){
         _ad.scaleimg();
     })
 
-    console.log('set up');
+    // console.log('set up');
 
 
 }
@@ -223,10 +223,10 @@ advent.prototype.makeimgs = function(){
     	}
         if ($(this).hasClass("future")){
             thisday=$(this)
-            console.log(thisday,thisday.find(".numb"))
+            // console.log(thisday,thisday.find(".numb"))
             $(this).find(".notyet").on("mouseenter",function(){
                 thisday=$(this).parent();
-                console.log(thisday.attr("class"),thisday.attr("id"));
+                // console.log(thisday.attr("class"),thisday.attr("id"));
                 thisday.find(".numb").css({
                     "font-size":(2*_ad.txtHeight)+"px"})
             })
@@ -240,7 +240,7 @@ advent.prototype.makeimgs = function(){
             thisday=$(this);
             $(this).find(".obj-link").on("mouseenter",function(){
                 thisday=$(this).parent().parent();
-                console.log(thisday.attr("class"),thisday.attr("id"));
+                // console.log(thisday.attr("class"),thisday.attr("id"));
                 thisday.find(".num").css({
                     "font-size":(2*_ad.txtHeight)+"px"})
             })
@@ -253,7 +253,7 @@ advent.prototype.makeimgs = function(){
             thisday=$(this);
             $(this).find(".obj-link").on("mouseenter",function(){
                 thisday=$(this).parent().parent();
-                console.log(thisday.attr("class"),thisday.attr("id"));
+                // console.log(thisday.attr("class"),thisday.attr("id"));
                 thisday.find(".numb").css({
                     "font-size":(2*_ad.txtHeight)+"px"})
             })
