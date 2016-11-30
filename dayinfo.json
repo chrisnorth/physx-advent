@@ -49,20 +49,22 @@
 
 "day6":{
   "n":"6",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+
+  "thumbsrc":"thumbs/steve-mould-gw.jpg",
+  "name":"Recreating Gravitational Waves",
+  "infolink":"<a href='https://www.youtube.com/watch?v=dw7U3BYMs4U'>YouTube/Steve Mould</a>",
+  "imgsrc":"images/steve-mould-gw.jpg",
+  "imgcredit":"<a href='https://www.youtube.com/watch?v=dw7U3BYMs4U'>YouTube/Steve Mould</a>",
+  "text":"Abstract physical concepts can be rather hard to demonstrate in an accessible way. Take gravity and the warping of space-time, for example. It's common for that to be demonstrated with a stretchy \"Universe\" pulled taught over a hula-hoop, and for a heavy weight to be placed in the middle.</p><p>That's all very well for recreating static gravitational fields, but what about gravitational waves? You'd need two objects to orbit in order to simulate the effect of a binary black hole - and I don't know about you but my arms dontend to get a bit tangled.</p><p>Luckily, science presentser <ahref='http://stevemould.com/'>Steve Mould</a> has given us the solution - and it involves power tools. Click the link below to see how Steve has recreated the gravitational waves from two orbiting black holes."
 },
 
 "day7":{
   "n":"7",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"INSERT TEXT"
+  "thumbsrc":"thumbs/antikythera.jpg",
+  "name":"Computers from antiquity",
+  "infolink":"http://www.astro.cf.ac.uk/newsandevents/?page=news_detail&news=0208",
+  "imgsrc":"images/antikythera.jpg",
+  "text":"The Antikythera Mechanism has been a source of fascination to scholars since it was first taken from the waters of the Greek Island of Antikythera. For some time now, we've understood its use an ancient analogue computer and orrery used to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the Olympiads, the cycles of the ancient Olympic Games, but now researchers are deciphering the writings inscribed on the mechanisms surfaces. <a href='http://www.astro.cf.ac.uk/contactsandpeople/?page=full&amp;id=123'>Professor Mike Edmunds</a> of Cardiff University is part of the Antikythera Mechanism Research Project, the internatinoal group working</p><p>The team’s research has now found that the inscriptions refer not only to the sun and the moon, as was already known, but confirm that the motions of the planets were also shown, as well as the timing and colour of eclipses. Significantly, this interest in colour represents the first indication that the mechanism may have been used, not only in astronomy, but also in astrology – the system of predicting events on earth based on the movements and positions of the stars and planets."
   },
 
 "day8":{
@@ -95,11 +97,11 @@
 
 "day11":{
   "n":"11",
-  "thumbsrc":"thumbs/antikythera.jpg",
-  "name":"Computers from antiquity",
-  "infolink":"http://www.astro.cf.ac.uk/newsandevents/?page=news_detail&news=0208",
-  "imgsrc":"images/antikythera.jpg",
-  "text":"The Antikythera Mechanism has been a source of fascination to scholars since it was first taken from the waters of the Greek Island of Antikythera. For some time now, we've understood its use an ancient analogue computer and orrery used to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the Olympiads, the cycles of the ancient Olympic Games, but now researchers are deciphering the writings inscribed on the mechanisms surfaces. <a href='http://www.astro.cf.ac.uk/contactsandpeople/?page=full&amp;id=123'>Professor Mike Edmunds</a> of Cardiff University is part of the Antikythera Mechanism Research Project, the internatinoal group working</p><p>The team’s research has now found that the inscriptions refer not only to the sun and the moon, as was already known, but confirm that the motions of the planets were also shown, as well as the timing and colour of eclipses. Significantly, this interest in colour represents the first indication that the mechanism may have been used, not only in astronomy, but also in astrology – the system of predicting events on earth based on the movements and positions of the stars and planets."
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"INSERT NAME",
+  "infolink":"INSERT LINK",
+  "imgsrc":"images/blank.jpg",
+  "text":"REPLACE TEXT"
   },
 
 "day12":{
@@ -158,12 +160,11 @@
 
 "day18":{
   "n":"18",
-  "thumbsrc":"thumbs/steve-mould-gw.jpg",
-  "name":"Recreating Gravitational Waves",
-  "infolink":"<a href='https://www.youtube.com/watch?v=dw7U3BYMs4U'>YouTube/Steve Mould</a>",
-  "imgsrc":"images/steve-mould-gw.jpg",
-  "imgcredit":"<a href='https://www.youtube.com/watch?v=dw7U3BYMs4U'>YouTube/Steve Mould</a>",
-  "text":"Abstract physical concepts can be rather hard to demonstrate in an accessible way. Take gravity and the warping of space-time, for example. It's common for that to be demonstrated with a stretchy \"Universe\" pulled taught over a hula-hoop, and for a heavy weight to be placed in the middle.</p><p>That's all very well for recreating static gravitational fields, but what about gravitational waves? You'd need two objects to orbit in order to simulate the effect of a binary black hole - and I don't know about you but my arms dontend to get a bit tangled.</p><p>Luckily, science presentser <ahref='http://stevemould.com/'>Steve Mould</a> has given us the solution - and it involves power tools. Click the link below to see how Steve has recreated the gravitational waves from two orbiting black holes."
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"INSERT NAME",
+  "infolink":"INSERT LINK",
+  "imgsrc":"images/blank.jpg",
+  "text":"REPLACE TEXT"
 },
 
 "day19":{
