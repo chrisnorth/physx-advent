@@ -6,6 +6,7 @@ function advent(){
 
 advent.prototype.scaleimg = function(){
 
+    var _ad=this;
     var w=$(window).width();
     var h=$(window).height() - 20;
     var el=$(".bgimg .bg");
@@ -76,30 +77,34 @@ advent.prototype.scaleimg = function(){
     }
 
     $("div.day").each(function(i){
-	daynum=$(this).find('.num').html()
-	//console.log($(this),$(this).css("left"),$(this).css("top"),daynum);
-	$(this).css({
-	    // "left":(parseFloat($(this).css("left"))*scale)+"px",
-	    // "top":(parseFloat($(this).css("top"))*scale)+"px",
-	    // "width":(parseFloat($(this).css("width"))*scale)+"px",
-	    // "height":(parseFloat($(this).css("height"))*scale)+"px",
-	    //"z-index":20,
-	    //"border":"1px red solid"
-	})
-	if (($(this).hasClass("past"))||($(this).hasClass("today"))){
+    	daynum=$(this).find('.num').html()
+        _ad.dayHeight=parseFloat($(this).css('height'));
+        _ad.txtHeight=0.75*_ad.dayHeight;
+    	//console.log($(this),$(this).css("left"),$(this).css("top"),daynum);
+    	$(this).css({
+    	    // "left":(parseFloat($(this).css("left"))*scale)+"px",
+    	    // "top":(parseFloat($(this).css("top"))*scale)+"px",
+    	    // "width":(parseFloat($(this).css("width"))*scale)+"px",
+    	    // "height":(parseFloat($(this).css("height"))*scale)+"px",
+    	    //"z-index":20,
+    	    //"border":"1px red solid"
+    	})
+    	// if (($(this).hasClass("past"))||($(this).hasClass("today"))){
+        // }
 	    //console.log('in past')
         // console.log(parseFloat($(this).find(".num").css("line-height")));
 	    $(this).find(".num").css({
-		// "left":(parseFloat($(this).css("width"))*scale)+"px",
-        // "font-size":(parseFloat($(this).css("font-size"))*(scale))+"px",
-        // "line-height":(parseFloat($(this).css("line-height"))*(scale))+"px"
+    		// "left":(parseFloat($(this).css("width"))*scale)+"px",
+            "font-size":(_ad.txtHeight)+"px",
+            "line-height":(_ad.dayHeight)+"px"
 	    })
         // console.log($(this).find(".num").css("line-height"));
         $(this).find(".numb").css({
-		// "left":(parseFloat($(this).css("width"))*scale)+"px",
-        // "font-size":(parseFloat($(this).css("font-size"))*(scale))+"px"
+            "font-size":(_ad.txtHeight)+"px",
+            "line-height":(_ad.dayHeight)+"px"
+    		// "left":(parseFloat($(this).css("width"))*scale)+"px",
+            // "font-size":(parseFloat($(this).css("font-size"))*(scale))+"px"
 	    })
-	};
     });
 
 }
@@ -196,26 +201,68 @@ advent.prototype.makeimgs = function(){
     	} else if (_ad.mm == 12){
     	    //console.log(mm)
     	    if (daynum < _ad.dd){
-    		$(this).addClass('past').removeClass('future')
-    		//$(this).find('.grey').removeClass('grey').addClass('black')
-    		//$(this).find('.num').css({
-    		//"color":"red"
-    		//})
-    		//console.log(daynum+' past')
-        } else if (daynum == _ad.dd){
-    		$(this).addClass('today').addClass('closed').removeClass('future')
-    		//$(this).find('.num').css({
-    		//"color":"blue"
-    		//})
-    		//console.log(daynum+' today')
+    		    $(this).addClass('past').removeClass('future')
+        		//$(this).find('.grey').removeClass('grey').addClass('black')
+        		//$(this).find('.num').css({
+        		//"color":"red"
+        		//})
+        		//console.log(daynum+' past')
+            } else if (daynum == _ad.dd){
+        		$(this).addClass('today').addClass('closed').removeClass('future')
+        		//$(this).find('.num').css({
+        		//"color":"blue"
+        		//})
+        		//console.log(daynum+' today')
     	    } else{
-    		$(this).addClass('future')
-    		//console.log(daynum+' future')
+    		    $(this).addClass('future')
+    		    //console.log(daynum+' future')
     	    }
     	} else {
     	    $(this).addClass('future')
     	    //console.log(daynum+' future (wrong month)')
     	}
+        if ($(this).hasClass("future")){
+            thisday=$(this)
+            console.log(thisday,thisday.find(".numb"))
+            $(this).find(".notyet").on("mouseenter",function(){
+                thisday=$(this).parent();
+                console.log(thisday.attr("class"),thisday.attr("id"));
+                thisday.find(".numb").css({
+                    "font-size":(2*_ad.txtHeight)+"px"})
+            })
+            $(this).find(".notyet").on("mouseout",function(){
+                thisday=$(this).parent();
+                // thisday.removeClass("over");
+                thisday.find(".numb").css({
+                    "font-size":(_ad.txtHeight)+"px"})
+            })
+        } else if ($(this).hasClass("past")){
+            thisday=$(this);
+            $(this).find(".obj-link").on("mouseenter",function(){
+                thisday=$(this).parent().parent();
+                console.log(thisday.attr("class"),thisday.attr("id"));
+                thisday.find(".num").css({
+                    "font-size":(2*_ad.txtHeight)+"px"})
+            })
+            $(this).find(".obj-link").on("mouseout",function(){
+                thisday=$(this).parent().parent();
+                thisday.find(".num").css({
+                    "font-size":(_ad.txtHeight)+"px"})
+            })
+        } else{
+            thisday=$(this);
+            $(this).find(".obj-link").on("mouseenter",function(){
+                thisday=$(this).parent().parent();
+                console.log(thisday.attr("class"),thisday.attr("id"));
+                thisday.find(".numb").css({
+                    "font-size":(2*_ad.txtHeight)+"px"})
+            })
+            $(this).find(".obj-link").on("mouseout",function(){
+                thisday=$(this).parent().parent();
+                thisday.find(".numb").css({
+                    "font-size":(_ad.txtHeight)+"px"})
+            })
+        }
     });
     $('div.fbday').each(function(i){
         $(this).find("a").each(function(i){

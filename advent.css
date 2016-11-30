@@ -175,7 +175,7 @@ div.future:hover .numb{
     opacity:1;
 }
 
-div.future div.notyet{
+div.day div.notyet{
     position:absolute;
     display:block;
     width:100%;
@@ -259,8 +259,12 @@ div.past .obj-link{
     z-index:99;
 }
 
-div.past div.notyet{
-    display:none;
+/*div.past div.notyet{
+    display:block;
+}*/
+
+div.day .num.over, div.day .numb.over{
+    font-size:4em;
 }
 
 div.past .grey{
