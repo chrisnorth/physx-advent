@@ -31,13 +31,11 @@
 
 "day4":{
   "n":"4",
-  "thumbsrc":"thumbs/antikythera.jpg",
-  "name":"Computers from antiquity",
-  "infolink":"http://www.astro.cf.ac.uk/newsandevents/?page=news_detail&news=0208",
-  "imgsrc":"images/antikythera.jpg",
-  "text":"The Antikythera Mechanism has been a source of fascination to scholars since it was first taken from the waters of the Greek Island of Antikythera. For some time now, we've understood its use an ancient analogue computer and orrery used to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the Olympiads, the cycles of the ancient Olympic Games, but now researchers are deciphering the writings inscribed on the mechanisms surfaces. <a href='http://www.astro.cf.ac.uk/contactsandpeople/?page=full&amp;id=123'>Professor Mike Edmunds</a> of Cardiff University is part of the Antikythera Mechanism Research Project, the internatinoal group working
-</p><p>
-The team’s research has now found that the inscriptions refer not only to the sun and the moon, as was already known, but confirm that the motions of the planets were also shown, as well as the timing and colour of eclipses. Significantly, this interest in colour represents the first indication that the mechanism may have been used, not only in astronomy, but also in astrology – the system of predicting events on earth based on the movements and positions of the stars and planets."
+  "thumbsrc":"thumbs/chiral.jpg",
+  "name":"Interstellar Chirality",
+  "infolink":"http://physicsworld.com/cws/article/news/2016/jun/14/chiral-molecules-spotted-in-interstellar-cloud",
+  "imgsrc":"images/chiral.jpg",
+  "text":"Twinkle twinkle, little star, How I wonder what chirality the molecules in the interstellar dust clouds between you are.<br>With the discovery of <a href='http://physicsworld.com/cws/article/news/2016/jun/14/chiral-molecules-spotted-in-interstellar-cloud' target='_blank'>chiral molecules in interstellar dust clouds</a> this year, scientists have moved closer to understanding how life on Earth first formed. Chiral molecules, which play crucial roles in the chemistry of life, exist in two different structures that are mirror images of each other, and just like human hands are referred to in terms of their right- and left-handedness.</p><p>This discovery was the first time these biologically important molecules were detected beyond our solar system, and although the type of molecule detected (propylene oxide) is not a biological one, its discovery suggests that they could exist in the depths of space. Chirality is an important property of life and most biological processes are 'homochiral' – they are highly selective in terms of the handedness of the molecules involved. For example, most amino acids found in living organisms are left-handed, whereas most sugars produced by nature are right-handed.</p><p>Many scientists believe that chiral molecules were an important 'prebiotic' precursor to life. Chiral molecules older than the Earth itself have been spotted in meteors and comets, which suggests that life may have extraterrestrial origins. As a result, astrobiologists studying the possible emergence of life on other planets are keen to understand where prebiotic chiral molecules are formed in the universe."
 },
 
 "day5":{
@@ -49,41 +47,40 @@ The team’s research has now found that the inscriptions refer not only to the 
   "text":"This year was the end of the 12 year <a href='http://www.esa.int/Our_Activities/Space_Science/Rosetta' target='_blank'>Rosetta mission</a> to comet 67P/Churyumov–Gerasimenko. After an eventful 10 year journey including 1 Mars, 2 asteroid and 3 Earth flybys the craft took up orbit around the target comet. In subsequent months Rosetta undertook numerous scientific examinations of the comet and deployed the ill fated Philae lander. Despite its short time of activity on the surface Philae still managed to provide valuable information about the composition of the atmosphere and surface of the comet.</p><p>On September 30th 2016 after sending a... Pharaoh... load of data about the comet, including the isotropic composition of the water vapour in the comets atmosphere, to mission control in Darmstadt, Rosetta finally finished its mission in a controlled descent into a pit called Deir el-Medina."
 },
 
-  "day6":{
-    "n":"6",
-    "thumbsrc":"thumbs/blank.jpg",
-    "name":"Precision Collisions (LHC)",
-    "infolink":"INSERT LINK",
-    "imgsrc":"images/blank.jpg",
-    "text":"REPLACE TEXT"
-
+"day6":{
+  "n":"6",
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"INSERT NAME",
+  "infolink":"INSERT LINK",
+  "imgsrc":"images/blank.jpg",
+  "text":"REPLACE TEXT"
 },
+
 "day7":{
   "n":"7",
-  "thumbsrc":"thumbs/chiral.jpg",
-  "name":"Interstellar Chirality",
-  "infolink":"http://physicsworld.com/cws/article/news/2016/jun/14/chiral-molecules-spotted-in-interstellar-cloud",
-  "imgsrc":"images/chiral.jpg",
-  "text":"Twinkle twinkle, little star, How I wonder what chirality the molecules in the interstellar dust clouds between you are.<br>With the discovery of <a href='http://physicsworld.com/cws/article/news/2016/jun/14/chiral-molecules-spotted-in-interstellar-cloud' target='_blank'>chiral molecules in interstellar dust clouds</a> this year, scientists have moved closer to understanding how life on Earth first formed. Chiral molecules, which play crucial roles in the chemistry of life, exist in two different structures that are mirror images of each other, and just like human hands are referred to in terms of their right- and left-handedness.</p><p>This discovery was the first time these biologically important molecules were detected beyond our solar system, and although the type of molecule detected (propylene oxide) is not a biological one, its discovery suggests that they could exist in the depths of space. Chirality is an important property of life and most biological processes are 'homochiral' – they are highly selective in terms of the handedness of the molecules involved. For example, most amino acids found in living organisms are left-handed, whereas most sugars produced by nature are right-handed.</p><p>Many scientists believe that chiral molecules were an important 'prebiotic' precursor to life. Chiral molecules older than the Earth itself have been spotted in meteors and comets, which suggests that life may have extraterrestrial origins. As a result, astrobiologists studying the possible emergence of life on other planets are keen to understand where prebiotic chiral molecules are formed in the universe."
-
-  },
-
-  "day8":{
-    "n":"8",
-    "thumbsrc":"thumbs/logo_uitc.jpg",
-    "name":"Introducing our bright new STARS",
-    "infolink":"http://www.universe.wales/",
-    "imgsrc":"images/logo_uitc.jpg",
-    "text":"For three years, <a href='http://www.universe.wales/about'>Universe in the Classroom</a> has been running a successful voluntary role model scheme with BSc, MSc and PhD students from the Cardiff University Schools of Physics and Astronomy, and Mathematics. These <a href='http://www.universe.wales/stars'>Stellar Role Models</a>, or STARS, visit primary schools across Wales to help inspire and educate students using Astronomy.<br><br>We are now very proud to have 51 enthusiastic students acting as STEM role models for young welsh children. By taking part in the project, STEMM students offer a diverse pool of representatives; including Welsh-speakers, female scientists and a range of ethnic groups and backgrounds, who will tackle diversity and gender issues in science and technology across Wales and broaden young children’s ideas of who can be a scientist at an age where impressions can become fixed."
-  },
-
-"day9":{
-  "n":"9",
   "thumbsrc":"thumbs/blank.jpg",
   "name":"INSERT NAME",
   "infolink":"INSERT LINK",
   "imgsrc":"images/blank.jpg",
   "text":"INSERT TEXT"
+  },
+
+"day8":{
+  "n":"8",
+  "thumbsrc":"thumbs/proxima-b.jpg",
+  "name":"Exoplanet on our doorstep",
+  "infolink":"http://www.nature.com/nature/journal/v536/n7617/full/nature19106.html",
+  "imgsrc":"images/proxima-b.jpg",
+  "text":"REPLACE TEXT"
+},
+
+"day9":{
+  "n":"9",
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"INSERT NAME",
+  "infolink":"INSERT IMAGE",
+  "imgsrc":"images/blank.jpg",
+  "text":"REPLACE TEXT"
 },
 
 "day10":{
@@ -97,11 +94,11 @@ The team’s research has now found that the inscriptions refer not only to the 
 
 "day11":{
   "n":"11",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"INSERT TEXT"
+  "thumbsrc":"thumbs/antikythera.jpg",
+  "name":"Computers from antiquity",
+  "infolink":"http://www.astro.cf.ac.uk/newsandevents/?page=news_detail&news=0208",
+  "imgsrc":"images/antikythera.jpg",
+  "text":"The Antikythera Mechanism has been a source of fascination to scholars since it was first taken from the waters of the Greek Island of Antikythera. For some time now, we've understood its use an ancient analogue computer and orrery used to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the Olympiads, the cycles of the ancient Olympic Games, but now researchers are deciphering the writings inscribed on the mechanisms surfaces. <a href='http://www.astro.cf.ac.uk/contactsandpeople/?page=full&amp;id=123'>Professor Mike Edmunds</a> of Cardiff University is part of the Antikythera Mechanism Research Project, the internatinoal group working</p><p>The team’s research has now found that the inscriptions refer not only to the sun and the moon, as was already known, but confirm that the motions of the planets were also shown, as well as the timing and colour of eclipses. Significantly, this interest in colour represents the first indication that the mechanism may have been used, not only in astronomy, but also in astrology – the system of predicting events on earth based on the movements and positions of the stars and planets."
   },
 
 "day12":{
@@ -150,12 +147,12 @@ The team’s research has now found that the inscriptions refer not only to the 
 },
 
 "day17":{
-"n":"17",
-"thumbsrc":"thumbs/blank.jpg",
-"name":"INSERT NAME",
-"infolink":"INSERT LINK",
-"imgsrc":"images/blank.jpg",
-"text":"REPLACE TEXT"
+  "n":"17",
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"Precision Collisions (LHC)",
+  "infolink":"INSERT LINK",
+  "imgsrc":"images/blank.jpg",
+  "text":"REPLACE TEXT"
 },
 
 "day18":{
@@ -179,11 +176,12 @@ The team’s research has now found that the inscriptions refer not only to the 
 
 "day20":{
   "n":"20",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT IMAGE",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"},
+  "thumbsrc":"thumbs/logo_uitc.jpg",
+  "name":"Introducing our bright new STARS",
+  "infolink":"http://www.universe.wales/",
+  "imgsrc":"images/logo_uitc.jpg",
+  "text":"For three years, <a href='http://www.universe.wales/about'>Universe in the Classroom</a> has been running a successful voluntary role model scheme with BSc, MSc and PhD students from the Cardiff University Schools of Physics and Astronomy, and Mathematics. These <a href='http://www.universe.wales/stars'>Stellar Role Models</a>, or STARS, visit primary schools across Wales to help inspire and educate students using Astronomy.<br><br>We are now very proud to have 51 enthusiastic students acting as STEM role models for young welsh children. By taking part in the project, STEMM students offer a diverse pool of representatives; including Welsh-speakers, female scientists and a range of ethnic groups and backgrounds, who will tackle diversity and gender issues in science and technology across Wales and broaden young children’s ideas of who can be a scientist at an age where impressions can become fixed."
+},
 
 "day21":{
   "n":"21",
