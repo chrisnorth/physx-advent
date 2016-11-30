@@ -31,11 +31,11 @@
 
 "day4":{
   "n":"4",
-  "thumbsrc":"thumbs/chiral.jpg",
-  "name":"Interstellar Chirality",
-  "infolink":"http://physicsworld.com/cws/article/news/2016/jun/14/chiral-molecules-spotted-in-interstellar-cloud",
-  "imgsrc":"images/chiral.jpg",
-  "text":"Twinkle twinkle, little star, How I wonder what chirality the molecules in the interstellar dust clouds between you are.<br>With the discovery of <a href='http://physicsworld.com/cws/article/news/2016/jun/14/chiral-molecules-spotted-in-interstellar-cloud' target='_blank'>chiral molecules in interstellar dust clouds</a> this year, scientists have moved closer to understanding how life on Earth first formed. Chiral molecules, which play crucial roles in the chemistry of life, exist in two different structures that are mirror images of each other, and just like human hands are referred to in terms of their right- and left-handedness.</p><p>This discovery was the first time these biologically important molecules were detected beyond our solar system, and although the type of molecule detected (propylene oxide) is not a biological one, its discovery suggests that they could exist in the depths of space. Chirality is an important property of life and most biological processes are 'homochiral' – they are highly selective in terms of the handedness of the molecules involved. For example, most amino acids found in living organisms are left-handed, whereas most sugars produced by nature are right-handed.</p><p>Many scientists believe that chiral molecules were an important 'prebiotic' precursor to life. Chiral molecules older than the Earth itself have been spotted in meteors and comets, which suggests that life may have extraterrestrial origins. As a result, astrobiologists studying the possible emergence of life on other planets are keen to understand where prebiotic chiral molecules are formed in the universe."
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"LHC",
+  "infolink":"INSERT LINK",
+  "imgsrc":"images/blank.jpg",
+  "text":"REPLACE TEXT"
 },
 
 "day5":{
@@ -49,7 +49,6 @@
 
 "day6":{
   "n":"6",
-
   "thumbsrc":"thumbs/steve-mould-gw.jpg",
   "name":"Recreating Gravitational Waves",
   "infolink":"<a href='https://www.youtube.com/watch?v=dw7U3BYMs4U'>YouTube/Steve Mould</a>",
@@ -88,11 +87,11 @@
 
 "day10":{
   "n":"10",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "thumbsrc":"thumbs/chiral.jpg",
+  "name":"Interstellar Chirality",
+  "infolink":"http://physicsworld.com/cws/article/news/2016/jun/14/chiral-molecules-spotted-in-interstellar-cloud",
+  "imgsrc":"images/chiral.jpg",
+  "text":"Twinkle twinkle, little star, How I wonder what chirality the molecules in the interstellar dust clouds between you are.<br>With the discovery of <a href='http://physicsworld.com/cws/article/news/2016/jun/14/chiral-molecules-spotted-in-interstellar-cloud' target='_blank'>chiral molecules in interstellar dust clouds</a> this year, scientists have moved closer to understanding how life on Earth first formed. Chiral molecules, which play crucial roles in the chemistry of life, exist in two different structures that are mirror images of each other, and just like human hands are referred to in terms of their right- and left-handedness.</p><p>This discovery was the first time these biologically important molecules were detected beyond our solar system, and although the type of molecule detected (propylene oxide) is not a biological one, its discovery suggests that they could exist in the depths of space. Chirality is an important property of life and most biological processes are 'homochiral' – they are highly selective in terms of the handedness of the molecules involved. For example, most amino acids found in living organisms are left-handed, whereas most sugars produced by nature are right-handed.</p><p>Many scientists believe that chiral molecules were an important 'prebiotic' precursor to life. Chiral molecules older than the Earth itself have been spotted in meteors and comets, which suggests that life may have extraterrestrial origins. As a result, astrobiologists studying the possible emergence of life on other planets are keen to understand where prebiotic chiral molecules are formed in the universe."
 },
 
 "day11":{
@@ -152,7 +151,7 @@
 "day17":{
   "n":"17",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"Precision Collisions (LHC)",
+  "name":"INSERT NAME",
   "infolink":"INSERT LINK",
   "imgsrc":"images/blank.jpg",
   "text":"REPLACE TEXT"
