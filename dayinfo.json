@@ -157,11 +157,12 @@
 
 "day18":{
   "n":"18",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "thumbsrc":"thumbs/steve-mould-gw.jpg",
+  "name":"Recreating Gravitational Waves",
+  "infolink":"<a href='https://www.youtube.com/watch?v=dw7U3BYMs4U'>YouTube/Steve Mould</a>",
+  "imgsrc":"images/steve-mould-gw.jpg",
+  "imgcredit":"<a href='https://www.youtube.com/watch?v=dw7U3BYMs4U'>YouTube/Steve Mould</a>",
+  "text":"Abstract physical concepts can be rather hard to demonstrate in an accessible way. Take gravity and the warping of space-time, for example. It's common for that to be demonstrated with a stretchy \"Universe\" pulled taught over a hula-hoop, and for a heavy weight to be placed in the middle.</p><p>That's all very well for recreating static gravitational fields, but what about gravitational waves? You'd need two objects to orbit in order to simulate the effect of a binary black hole - and I don't know about you but my arms dontend to get a bit tangled.</p><p>Luckily, science presentser <ahref='http://stevemould.com/'>Steve Mould</a> has given us the solution - and it involves power tools. Click the link below to see how Steve has recreated the gravitational waves from two orbiting black holes."
 },
 
 "day19":{
