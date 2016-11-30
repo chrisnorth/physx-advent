@@ -283,7 +283,11 @@ div.today{
     cursor:pointer;
 }
 
-div.open{
+div.day.today .grey{
+    /*background-color:white;*/
+}
+
+div.today.open{
     /*border:1px solid #ff5555;*/
     box-shadow:0 0 50px white;
     -moz-box-shadow:0 0 4px white;
@@ -332,6 +336,7 @@ div.today{
 }
 
 div.closed{
+    /*background-color:#ffffff55;*/
     border:dashed #fff 5px;
 }
 

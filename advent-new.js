@@ -281,11 +281,11 @@ advent.prototype.makeimgs = function(){
 
     // set fancybox settings
     $(document).find(".fancybox").fancybox({
-	'transitionIn': 'fade',
-       	'transitionOut': 'fade',
-       	'type': 'inline',
-
-	'autoDimensions': 'true'
+	    'transitionIn': 'fade',
+        'transitionOut': 'fade',
+        'type': 'inline',
+        'autoDimensions': 'true',
+        'overlayColor':'#ffffff'
     });
 
 };
