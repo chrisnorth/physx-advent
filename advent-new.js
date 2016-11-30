@@ -88,13 +88,13 @@ advent.prototype.scaleimg = function(){
 	})
 	if (($(this).hasClass("past"))||($(this).hasClass("today"))){
 	    //console.log('in past')
-        console.log(parseFloat($(this).find(".num").css("line-height")));
+        // console.log(parseFloat($(this).find(".num").css("line-height")));
 	    $(this).find(".num").css({
 		// "left":(parseFloat($(this).css("width"))*scale)+"px",
         // "font-size":(parseFloat($(this).css("font-size"))*(scale))+"px",
         // "line-height":(parseFloat($(this).css("line-height"))*(scale))+"px"
 	    })
-        console.log($(this).find(".num").css("line-height"));
+        // console.log($(this).find(".num").css("line-height"));
         $(this).find(".numb").css({
 		// "left":(parseFloat($(this).css("width"))*scale)+"px",
         // "font-size":(parseFloat($(this).css("font-size"))*(scale))+"px"
@@ -131,7 +131,7 @@ advent.prototype.setup = function(){
 
 advent.prototype.makeimgs = function(){
     var _ad=this;
-    console.log(this.daydata);
+    // console.log(this.daydata);
     var dat=this.daydata;
     bgimg=$(".bgimg");
     for(day in dat){
@@ -189,36 +189,40 @@ advent.prototype.makeimgs = function(){
 
     // figure out which images are today
     $('div.day').each(function(i){
-	daynum=$(this).find('.num').html()
-	if (_ad.yy != thisyear){
-	    $(this).addClass('past').removeClass('future')
-	    //console.log(daynum+' past (later year)')
-	} else if (_ad.mm == 12){
-	    //console.log(mm)
-	    if (daynum < _ad.dd){
-		$(this).addClass('past').removeClass('future')
-		//$(this).find('.grey').removeClass('grey').addClass('black')
-		//$(this).find('.num').css({
-		//"color":"red"
-		//})
-		//console.log(daynum+' past')
-    } else if (daynum == _ad.dd){
-		$(this).addClass('today').addClass('closed').removeClass('future')
-		//$(this).find('.num').css({
-		//"color":"blue"
-		//})
-		//console.log(daynum+' today')
-	    } else{
-		$(this).addClass('future')
-		//console.log(daynum+' future')
-	    }
-	} else {
-	    $(this).addClass('future')
-	    //console.log(daynum+' future (wrong month)')
-	}
-
+    	daynum=$(this).find('.num').html()
+    	if (_ad.yy != thisyear){
+    	    $(this).addClass('past').removeClass('future')
+    	    //console.log(daynum+' past (later year)')
+    	} else if (_ad.mm == 12){
+    	    //console.log(mm)
+    	    if (daynum < _ad.dd){
+    		$(this).addClass('past').removeClass('future')
+    		//$(this).find('.grey').removeClass('grey').addClass('black')
+    		//$(this).find('.num').css({
+    		//"color":"red"
+    		//})
+    		//console.log(daynum+' past')
+        } else if (daynum == _ad.dd){
+    		$(this).addClass('today').addClass('closed').removeClass('future')
+    		//$(this).find('.num').css({
+    		//"color":"blue"
+    		//})
+    		//console.log(daynum+' today')
+    	    } else{
+    		$(this).addClass('future')
+    		//console.log(daynum+' future')
+    	    }
+    	} else {
+    	    $(this).addClass('future')
+    	    //console.log(daynum+' future (wrong month)')
+    	}
     });
-
+    $('div.fbday').each(function(i){
+        $(this).find("a").each(function(i){
+            $(this).attr('target','_blank');
+            // console.log(this);
+        })
+    })
     //define links
     $('div.today').on("mouseenter mousedown",function(){
 	$(this).addClass('open').removeClass('closed')
