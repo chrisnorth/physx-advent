@@ -437,7 +437,14 @@ div.infoimg p.credit{
     font-style:italic;
     color:white;
 }
-
+div.infoimg .credit a{
+    font-weight: bold;
+    text-decoration: none;
+    color:#cccccc;
+}
+div.infoimg .credit a:hover{
+    text-decoration:underline;
+}
 /* Fancybox info text */
 
 div.infotxt{
