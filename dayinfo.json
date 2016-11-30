@@ -35,7 +35,7 @@
   "name":"LHC",
   "infolink":"INSERT LINK",
   "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "text":"REPLACE TEXT - Chris"
 },
 
 "day5":{
@@ -63,7 +63,7 @@
   "name":"Computers from antiquity",
   "infolink":"http://www.astro.cf.ac.uk/newsandevents/?page=news_detail&news=0208",
   "imgsrc":"images/antikythera.jpg",
-  "text":"The Antikythera Mechanism has been a source of fascination to scholars since it was first taken from the waters of the Greek Island of Antikythera. For some time now, we've understood its use an ancient analogue computer and orrery used to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the Olympiads, the cycles of the ancient Olympic Games, but now researchers are deciphering the writings inscribed on the mechanisms surfaces. <a href='http://www.astro.cf.ac.uk/contactsandpeople/?page=full&amp;id=123'>Professor Mike Edmunds</a> of Cardiff University is part of the Antikythera Mechanism Research Project, the internatinoal group working</p><p>The team’s research has now found that the inscriptions refer not only to the sun and the moon, as was already known, but confirm that the motions of the planets were also shown, as well as the timing and colour of eclipses. Significantly, this interest in colour represents the first indication that the mechanism may have been used, not only in astronomy, but also in astrology – the system of predicting events on earth based on the movements and positions of the stars and planets."
+  "text":"The Antikythera Mechanism has been a source of fascination to scholars since it was first taken from the waters of the Greek Island of Antikythera. For some time now, we've understood its use an ancient analogue computer and orrery used to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the Olympiads, the cycles of the ancient Olympic Games, but now researchers are deciphering the writings inscribed on the mechanisms surfaces. <a href='http://www.astro.cf.ac.uk/contactsandpeople/?page=full&amp;id=123'>Professor Mike Edmunds</a> of Cardiff University is part of the Antikythera Mechanism Research Project, the international group working</p><p>The team’s research has now found that the inscriptions refer not only to the sun and the moon, as was already known, but confirm that the motions of the planets were also shown, as well as the timing and colour of eclipses. Significantly, this interest in colour represents the first indication that the mechanism may have been used, not only in astronomy, but also in astrology – the system of predicting events on earth based on the movements and positions of the stars and planets."
   },
 
 "day8":{
@@ -72,12 +72,7 @@
   "name":"Exoplanet on our doorstep",
   "infolink":"http://www.nature.com/nature/journal/v536/n7617/full/nature19106.html",
   "imgsrc":"images/proxima-b.jpg",
-  "text":"
-August 2016 heralded the announcement of the discovery of an Exo-Planet in the habitable zone of Proxima Centauri, the nearest star to ours. First indications of the existence of the planet were found in 2013, with its existence then confirmed by an international team of 31 scientists as part of the Pale Red Dot project.
-</p><p>
-Although Proxima Centauri b lies in the habitable zone of its star, its actual habitability is questionable. It is subject to stellar wind pressures 2000x stronger than those here on Earth that would strip any atmosphere away, and due to its proximity to it's star there is a high probability it is tidally locked with one side permanently facing towards the star super-heating it, while the opposite side is in permanent darkness and freezing cold. This would leave the so called 'Terminator zone' where light meets dark providing the only place on the surface that any water on the planets' surface would exist as a liquid.
-</p><p>
-However, further study, including observing a transit of the planet across Proxima Centauri is required to confirm the habitability of the planet to life as we know it."
+  "text":"August 2016 heralded the announcement of the discovery of an Exo-Planet in the habitable zone of Proxima Centauri, the nearest star to ours. First indications of the existence of the planet were found in 2013, with its existence then confirmed by an international team of 31 scientists as part of the Pale Red Dot project.</p><p>Although Proxima Centauri b lies in the habitable zone of its star, its actual habitability is questionable. It is subject to stellar wind pressures 2000x stronger than those here on Earth that would strip any atmosphere away, and due to its proximity to it's star there is a high probability it is tidally locked with one side permanently facing towards the star super-heating it, while the opposite side is in permanent darkness and freezing cold. This would leave the so called 'Terminator zone' where light meets dark providing the only place on the surface that any water on the planets' surface would exist as a liquid.</p><p>However, further study, including observing a transit of the planet across Proxima Centauri is required to confirm the habitability of the planet to life as we know it."
 },
 
 "day9":{
@@ -86,7 +81,7 @@ However, further study, including observing a transit of the planet across Proxi
   "name":"The long wait...",
   "infolink":"http://physicsworld.com/cws/article/news/2016/mar/28/physicists-upend-conventional-wisdom-of-how-paint-dries",
   "imgsrc":"images/drying-paint.jpg",
-  "text":"REPLACE TEXT"
+  "text":"REPLACE TEXT - Brychan"
 },
 
 
@@ -102,10 +97,10 @@ However, further study, including observing a transit of the planet across Proxi
 "day11":{
   "n":"11",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
+  "name":"Pythagorean astronomy",
   "infolink":"INSERT LINK",
   "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "text":"REPLACE TEXT - Chris"
   },
 
 "day12":{
@@ -114,16 +109,16 @@ However, further study, including observing a transit of the planet across Proxi
   "name":"Tim Peake",
   "infolink":"INSERT LINK",
   "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "text":"REPLACE TEXT - Brychan"
 },
 
 "day13":{
   "n":"13",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
+  "name":"Lipid Bilayers",
   "infolink":"INSERT LINK",
   "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "text":"REPLACE TEXT - Chris"
 },
 
 "day14":{
@@ -132,7 +127,7 @@ However, further study, including observing a transit of the planet across Proxi
   "name":"STEM Live",
   "infolink":"INSERT LINK",
   "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "text":"REPLACE TEXT - Chris"
 },
 
 "day15":{
@@ -141,7 +136,7 @@ However, further study, including observing a transit of the planet across Proxi
   "name":"Exploring Mars",
   "infolink":"http://exomars.esa.int",
   "imgsrc":"images/exomars.jpg",
-  "text":"REPLACE TEXT"
+  "text":"REPLACE TEXT - Chris"
 },
 
 "day16":{
@@ -156,10 +151,10 @@ However, further study, including observing a transit of the planet across Proxi
 "day17":{
   "n":"17",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
+  "name":"Netron Star WEB",
   "infolink":"INSERT LINK",
   "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "text":"REPLACE TEXT - Chris"
 },
 
 "day18":{
@@ -195,7 +190,7 @@ However, further study, including observing a transit of the planet across Proxi
   "name":"Science-inspired art",
   "infolink":"http://blogs.cardiff.ac.uk/physicsoutreach/2016/11/25/new-artwork-inspired-gravitational-wave-discovery/",
   "imgsrc":"images/gw-art.jpg",
-  "text":"REPLACE TEXT"
+  "text":"REPLACE TEXT - Chris"
 },
 
 "day22":{
@@ -213,7 +208,7 @@ However, further study, including observing a transit of the planet across Proxi
   "name":"Magnetic Monopoles",
   "infolink":"http://www.astro.cf.ac.uk/newsandevents/?page=news_detail&news=0202",
   "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "text":"REPLACE TEXT - chris"
 },
 
 "day24":{
