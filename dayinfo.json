@@ -79,12 +79,13 @@ The team’s research has now found that the inscriptions refer not only to the 
 
 "day9":{
   "n":"9",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"INSERT TEXT"
-},
+  "thumbsrc":"thumbs/drying-paint.jpg",
+  "name":"The long wait...",
+  "infolink":"http://physicsworld.com/cws/article/news/2016/mar/28/physicists-upend-conventional-wisdom-of-how-paint-dries",
+  "imgsrc":"images/drying-paint.jpg",
+  "text":"REPLACE TEXT"
+
+  },
 
 "day10":{
   "n":"10",
@@ -196,11 +197,11 @@ The team’s research has now found that the inscriptions refer not only to the 
 
 "day22":{
   "n":"22",
-  "thumbsrc":"thumbs/drying-paint.jpg",
-  "name":"The long wait...",
-  "infolink":"http://physicsworld.com/cws/article/news/2016/mar/28/physicists-upend-conventional-wisdom-of-how-paint-dries",
-  "imgsrc":"images/drying-paint.jpg",
-  "text":"REPLACE TEXT"
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"INSERT NAME",
+  "infolink":"INSERT LINK",
+  "imgsrc":"images/blank.jpg",
+  "text":"INSERT TEXT"
 },
 
 "day23":{
