@@ -29,7 +29,12 @@ div.advent{
     height:1000px;
     z-index:1
 }
-
+div.bgimg-credit{
+    position:absolute;
+    bottom:0px;
+    right:0px;
+    font-size:0.8em;
+}
 /*TITLE STYLES*/
 
 div.title-bg{
