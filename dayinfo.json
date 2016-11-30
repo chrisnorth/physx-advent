@@ -82,9 +82,7 @@
   "name":"The long wait...",
   "infolink":"http://physicsworld.com/cws/article/news/2016/mar/28/physicists-upend-conventional-wisdom-of-how-paint-dries",
   "imgsrc":"images/drying-paint.jpg",
-  "text":"Many would consider watching paint dry to be a pointless exercise, however scientists from the UK and France have used it as an opportunity to study the actions of the particles within the drying paint. Using computer simulations and experiments, researchers discovered that smaller particles essentially join forces to push larger particles in one direction. This results in distinctive layers within the dried material, and upends conventional wisdom about how paint dries.
-</p><p>
-Research like this may seem banal, yet discovering this effect could lead to the creation of intelligent emulsions that could form the basis of new sunscreens, where most of the sunlight-blocking particles could be designed to push their way to the top, leaving particles that can adhere to the skin near the bottom of the coating. Other possible applications include creating layered films for electronics, ink printing and, of course, better paint."
+  "text":"Many would consider watching paint dry to be a pointless exercise, however scientists from the UK and France have used it as an opportunity to study the actions of the particles within the drying paint. Using computer simulations and experiments, researchers discovered that smaller particles essentially join forces to push larger particles in one direction. This results in distinctive layers within the dried material, and upends conventional wisdom about how paint dries.</p><p>Research like this may seem banal, yet discovering this effect could lead to the creation of intelligent emulsions that could form the basis of new sunscreens, where most of the sunlight-blocking particles could be designed to push their way to the top, leaving particles that can adhere to the skin near the bottom of the coating. Other possible applications include creating layered films for electronics, ink printing and, of course, better paint."
 },
 
 
@@ -117,11 +115,12 @@ Research like this may seem banal, yet discovering this effect could lead to the
 
 "day13":{
   "n":"13",
-  "thumbsrc":"thumbs/blank.jpg",
+  "thumbsrc":"thumbs/lipid-bilayer.jpg",
   "name":"Lipid Bilayers",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT - Chris"
+  "infolink":"http://www.sparknotes.com/biology/cellstructure/cellmembranes/section1.html",
+  "imgsrc":"images/lipid-bilayer.jpg",
+  "imgcredit":"David Regan/Cardiff University. <a href='images/lipid-bilayer-large.png'>Larger version</a>",
+  "text":"To the untrained eye this picture looks like a bit of crinkled wrapping paper, but in fact it shows a microscope image of a synthetic lipid bilayer (a double layer of lipid, or fatty, molecules). The image is around a third of a millimetre across, and shows the bilayer in the process of freezing from its fluid state into a more rigid and ordered solid state. The solid-ordered regions push out the fluorescent \"label\" which makes the four-nanometre-thick bilayer visible, and so they appear as dark hexagons or lines crisscrossing the surface. Lipid bilayers are important because they form the basis of the cell membrane, a thin barrier which separates the cell interior from its environment.</p><p>The physical properties of the lipid bilayer affect a wide range of cellular processes. One highly controversial area in which the physics of the lipid bilayer is particularly important is the lipid raft hypothesis which suggests that there are small domains with high molecular order called rafts \"floating\" in the surrounding sea of liquid phase lipids. The biophysical properties of these rafts have been implicated in signalling between neighbouring cells, the mechanism of HIV infection of cells, and cancer cell resistance to chemotherapy drugs.</p><p>Fluorescently labelled lipids are commonly used in investigations of bilayer phase behaviour to make the different phases bilayers visible with a microscope. In this experiment, the result of a long-standing collaboration between physics and biosciences at Cardiff, it was found that the very presence of a label alters the phase behaviour, thus making understanding the process all the more important."
 },
 
 "day14":{
