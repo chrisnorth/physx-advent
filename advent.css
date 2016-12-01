@@ -284,7 +284,7 @@ div.today{
 }
 
 div.day.today .grey{
-    /*background-color:white;*/
+    background-color:white;
 }
 
 div.today.open{
@@ -320,7 +320,7 @@ div.today .numb{
 }
 
 div.closed .numb{
-    opacity:0.1;
+    opacity:1;
 }
 div.open .numb{
     /*font-size:2em;*/
