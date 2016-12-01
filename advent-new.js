@@ -8,13 +8,19 @@ advent.prototype.scaleimg = function(){
 
     var _ad=this;
     var w=$(window).width();
-    var h=$(window).height() - 20;
+    var h=$(window).height();
     var el=$(".bgimg .bg");
     var scalex=w/el.outerWidth();
     var scaley=h/el.outerHeight();
-    var scale = (scalex < scaley ? scalex : scaley);
+    var aspect=w/h;
+    if (aspect>2){
+        var scale=scalex;
+    }else{
+        var scale = (scalex < scaley ? scalex : scaley);
+    }
     // var scale=scaley;
     this.scale=scale;
+    this.aspect=aspect;
     this.scalex=scalex;
     this.scaley=scaley;
     //console.log(w,h,scale);
@@ -29,6 +35,7 @@ advent.prototype.scaleimg = function(){
     this.bgw=bgw
     this.bgh=bgh
     this.scale=scale
+    // calculate margin width
     this.ml=(w - this.bgw)/2
     $(".bgimg").css({
 	"width":bgw+"px",
