@@ -136,10 +136,10 @@
 "day15":{
   "n":"15",
   "thumbsrc":"thumbs/exomars.jpg",
-  "name":"Exploring Mars",
+  "name":"Christmas on the red planet",
   "infolink":"http://exomars.esa.int",
   "imgsrc":"images/exomars.jpg",
-  "text":"REPLACE TEXT - Chris"
+  "text":"What's going to happen when the first humans travel to the red planet? Will Santa be able to find them, or does he have a (somewhat more idle) counterpart on Mars? At least he'd have a bit longer to do the rounds, since Mars' day is 40 minutes longer than an Earth day.</p><p>Of course, this isn't a problem we have to deal with yet, because Mars is solely inhabited by robots. The latest attempt by the European Space Agency (<a href='http://www.esa.int'>ESA</a>) to land on Mars didn't go quite to plan, with the <a href='http://www.esa.int/Our_Activities/Space_Science/ExoMars/Schiaparelli_landing_investigation_makes_progress'>Schiaparelli</a> lander crashing at high speed.</p><p>For some, it brought back memories of Christmas Day 2003, when the ill-fated <a href='https://en.wikipedia.org/wiki/Beagle_2'>Beagle 2</a> was supposed to phone home after bouncing across the surface on giant airbags. Also thought to have crash-landed, it's <a href='http://www.bbc.co.uk/news/science-environment-37940445'>now thought</a> that Beagle 2 did land safely, but didn't manage to fully deploy its solar panels and communications equipment.</p><p>These missions highlight that \"space is hard\" (particularly, <a href='https://www.strudel.org.uk/lob/#mars'>it would seem</a> for Soviet/Russian missions), and getting to Mars is certainly a high-risk endeavour. But we currently have two rovers on the surface: <a href='http://mars.nasa.gov/msl/'>Curiosity</a>, which landed in August 2012, and <a href='http://mars.nasa.gov/mer/home/'>Opportunity</a>, which is nearly 13 years into what was initially intended to be a 90 day mission.</p><p>Up in orbit, there is a fleet of six spacecraft: <a href='http://mars.nasa.gov/odyssey/'>Mars Odyssey</a>, <a href='http://mars.nasa.gov/mro/'>Mars Reconnaissance Orbiter</a>, <a href='http://www.esa.int/marsexpress'>Mars Express</a>, <a href='http://mars.nasa.gov/maven/'>MAVEN</a>, India's \"Mangalyaan\" <a href='http://www.isro.gov.in/pslv-c25-mars-orbiter-mission'>Mars Orbiter Mission</a> and, most recently, ESA's <a href='http://exploration.esa.int/mars/'>Trace Gas Orbiter</a>.</p><p>Over coming years they're due to be joined by more spacecraft and rovers, with many national and international agencies driving forward with the search for life on Mars."
 },
 
 "day16":{
