@@ -145,16 +145,16 @@
 "day16":{
   "n":"16",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT LINK",
+  "name":"Compound Semiconductors",
+  "infolink":"http://www.cardiff.ac.uk/innovation/campus-investment/translational-research-facility/institute-for-compound-semiconductors",
   "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "text":"REPLACE TEXT - Brychan"
 },
 
 "day17":{
   "n":"17",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"Netron Star WEB",
+  "name":"Netron Star QM",
   "infolink":"INSERT LINK",
   "imgsrc":"images/blank.jpg",
   "text":"REPLACE TEXT - Chris"
@@ -163,10 +163,10 @@
 "day18":{
   "n":"18",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT LINK",
+  "name":"Brain Imaging",
+  "infolink":"http://www.cardiff.ac.uk/innovation/campus-investment/cubric",
   "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT"
+  "text":"REPLACE TEXT - Brychan"
 },
 
 "day19":{
