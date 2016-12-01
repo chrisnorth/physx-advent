@@ -50,12 +50,11 @@
 
 "day6":{
   "n":"6",
-  "thumbsrc":"thumbs/steve-mould-gw.jpg",
-  "name":"A (short) Christmas Movie",
-  "infolink":"https://www.youtube.com/watch?v=dw7U3BYMs4U",
-  "imgsrc":"images/steve-mould-gw.jpg",
-  "imgcredit":"<a href='https://www.youtube.com/watch?v=dw7U3BYMs4U'>YouTube/Steve Mould</a>",
-  "text":"Abstract physical concepts can be rather hard to demonstrate in an accessible way. Take gravity and the warping of space-time, for example. It's common for that to be demonstrated with a stretchy \"Universe\" pulled taught over a hula-hoop, and for a heavy weight to be placed in the middle.</p><p>That's all very well for recreating static gravitational fields, but what about gravitational waves? You'd need two objects to orbit in order to simulate the effect of a binary black hole - and I don't know about you but my arms dontend to get a bit tangled.</p><p>Luckily, science presentser <a href='http://stevemould.com/'>Steve Mould</a> has given us the solution - and it involves power tools. Click the link below to see how Steve has recreated the gravitational waves from two orbiting black holes."
+  "thumbsrc":"thumbs/ics.jpg",
+  "name":"Compound Semiconductors",
+  "infolink":"http://www.cardiff.ac.uk/institute-compound-semiconductors",
+  "imgsrc":"images/ics.jpg",
+  "text":"Semiconductors have become a vital part of modern life, from our games consoles to space probes, and without them the modern world wouldn't be quite so modern! This year Cardiff University and IQE plc joined forces to create the Institute for Compound Semiconductors with the aim of developing cutting edge research in the field with the aim of implementing it commercially with greater reliability and speed.</p><p><a href='https://en.wikipedia.org/wiki/Semiconductor'>Semiconducters</a> are halfway between conducters, which allow electricity to pass through, and insulators, which block electricity. Through the applications of very small voltages, they can be switched between the two states, making the so very useful in computer chips. They can also be used to amplify signals, or even produce light. The challenge for the future is to make semiconductors smaller, faster, cheaper and more flexible.</p><p>Led by Prof. Diana Huffaker, the Institute for Compound Semiconductors will focus on fundamental science and device development. It builds on many existing areas of expertise, in optoelectronics, semiconductor devices, and material. A new <a href='http://www.cardiff.ac.uk/news/view/516163-go-ahead-for-new-fabrication-facility'>fabrication facility</a> will be constructed on Cardiff's Innovation Campus to bring together researchers, industry, and students."
 },
 
 "day7":{
@@ -127,7 +126,7 @@
 "day14":{
   "n":"14",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"STEM Live",
+  "name":"IOP/SPN",
   "infolink":"INSERT LINK",
   "imgsrc":"images/blank.jpg",
   "text":"REPLACE TEXT - Chris"
@@ -144,11 +143,12 @@
 
 "day16":{
   "n":"16",
-  "thumbsrc":"thumbs/ics.jpg",
-  "name":"Compound Semiconductors",
-  "infolink":"http://www.cardiff.ac.uk/institute-compound-semiconductors",
-  "imgsrc":"images/ics.jpg",
-  "text":"Semiconductors have become a vital part of modern life, from our games consoles to space probes, and without them the modern world wouldn't be quite so modern! This year Cardiff University and IQE plc joined forces to create the Institute for Compound Semiconductors with the aim of developing cutting edge research in the field with the aim of implementing it commercially with greater reliability and speed.</p><p><a href='https://en.wikipedia.org/wiki/Semiconductor'>Semiconducters</a> are halfway between conducters, which allow electricity to pass through, and insulators, which block electricity. Through the applications of very small voltages, they can be switched between the two states, making the so very useful in computer chips. They can also be used to amplify signals, or even produce light. The challenge for the future is to make semiconductors smaller, faster, cheaper and more flexible.</p><p>Led by Prof. Diana Huffaker, the Institute for Compound Semiconductors will focus on fundamental science and device development. It builds on many existing areas of expertise, in optoelectronics, semiconductor devices, and material. A new <a href='http://www.cardiff.ac.uk/news/view/516163-go-ahead-for-new-fabrication-facility'>fabrication facility</a> will be constructed on Cardiff's Innovation Campus to bring together researchers, industry, and students."
+  "thumbsrc":"thumbs/steve-mould-gw.jpg",
+  "name":"A (short) Christmas Movie",
+  "infolink":"https://www.youtube.com/watch?v=dw7U3BYMs4U",
+  "imgsrc":"images/steve-mould-gw.jpg",
+  "imgcredit":"<a href='https://www.youtube.com/watch?v=dw7U3BYMs4U'>YouTube/Steve Mould</a>",
+  "text":"Abstract physical concepts can be rather hard to demonstrate in an accessible way. Take gravity and the warping of space-time, for example. It's common for that to be demonstrated with a stretchy \"Universe\" pulled taught over a hula-hoop, and for a heavy weight to be placed in the middle.</p><p>That's all very well for recreating static gravitational fields, but what about gravitational waves? You'd need two objects to orbit in order to simulate the effect of a binary black hole - and I don't know about you but my arms dontend to get a bit tangled.</p><p>Luckily, science presentser <a href='http://stevemould.com/'>Steve Mould</a> has given us the solution - and it involves power tools. Click the link below to see how Steve has recreated the gravitational waves from two orbiting black holes."
 },
 
 "day17":{
@@ -174,10 +174,10 @@
 "day19":{
   "n":"19",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"Jovian giant",
+  "name":"Nanophysics",
   "infolink":"INSERT LINK",
   "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT - Chris"
+  "text":"REPLACE TEXT - Chris from Susan/Adam"
 },
 
 "day20":{
@@ -221,7 +221,7 @@
 "day24":{
   "n":"24",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"End of an era for Herschel",
+  "name":"Richard's Award",
   "infolink":"INSERT LINK",
   "imgsrc":"images/blank.jpg",
   "text":"REPLACE TEXT - Chris"
