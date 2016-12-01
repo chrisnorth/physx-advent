@@ -153,11 +153,12 @@
 
 "day17":{
   "n":"17",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"Netron Star QM",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT - Chris"
+  "thumbsrc":"thumbs/debris-disk.jpg",
+  "name":"Glory to the Newborn...planet?",
+  "infolink":"https://public.nrao.edu/news/pressreleases/2016-alma-elias-spiral",
+  "imgsrc":"images/debris-disk.jpg",
+  "imgcredit":"B. Saxton (NRAO/AUI/NSF); ALMA (ESO/NAOJ/NRAO)",
+  "text":"Deep inside the stellar cocoon that is the rho-Ophiucus star forming complex, around 450 light years from Earth, lies a fairly small star that goes by the name of \"Elias 2-27\". It's a relatively young star, somewhere its one millionth birthday, and fairly faint, being around half the mass of our Sun, but it's just become a lot more interesting.</p><p>The <a href='<a href='http://www.eso.org/alma'>ALMA telescope</a> observes long-wavelength sub-mm light, which allows it to peer through the thick, dusty cocoon and see the star and its immediate surroundings in high resolution. Like many stars, Elias 2-27 is surrounded by a thick disk of gas and dust, and the latest observations show that there are what look to be spiral arms coming from the outer edge. That might indicate that a planet is forming near the outer edge of the disk.</p><p>Closer to the star is a slightly thinner ring, implying that there's a gap in the dust.Current theories of planet formation imply that such a ring indicates the presence of a young planet which has already formed, clearing the other material from its path.</p><p>At the very least, such observations are testing our theories and models of how planets form. The team that found this result, including Cardiff's Dr Jane Greaves, plans to follow it with many more observations of other stars to improve our understanding of how planetary systems like ours evolve."
 },
 
 "day18":{
@@ -198,20 +199,21 @@
 
 "day22":{
   "n":"22",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"INSERT NAME",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"INSERT TEXT"
+  "thumbsrc":"thumbs/kid-array.jpg",
+  "name":"Will no one think of the KIDs?",
+  "infolink":"https://www.astro.cf.ac.uk/research/astro/instr/researchareas/detectors/",
+  "imgsrc":"images/kid-array.jpg",
+  "imgcredit":"A KID array built in Cardiff",
+  "text":"Christmas is often said to be a time primarily aimed at children. But here in Cardiff we focus on a very different sort of KID - a \"Kinetic Inductance Detector\".</p><p>The KID, is a superconducting detector that provides an elegant solution to producing the next generation of large format, ultra sensitive detector arrays. By multiplexing in the frequency domain, up to 1000 KIDs can be read out simultaneously on a single pair of coaxial cables. They even work across a very wide range of wavelengths, from sub-mm to x-ray.</p><p>The Cardiff group, led by Dr Simon Doyle, has pioneered research in KID technology with the invention of the Lumped Element Kinetic Inductance Detector (LEKID) – a technology that has been adopted by many groups around the world working in this field. It has been demonsrated on the 30-metre <a href='http://www.iram-institute.org/EN/30-meter-telescope.php'>IRAM telescope</a> in the Spanish Sierra Nevada, and there are plans to develop it for future telescopes in Chile.</p><p>A more down-to-Earth application of KIDs is the security business, since they can be used to directly see items hidden under clothing, without needing any of the cumbersome, \"active\" scanners which are currently used in ports and airports."
 },
 
 "day23":{
   "n":"23",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"Magnetic Monopoles",
+  "name":"Nano stuff from Sam?",
   "infolink":"http://www.astro.cf.ac.uk/newsandevents/?page=news_detail&news=0202",
   "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT - chris"
+  "text":"REPLACE TEXT - Chris via Matt Hutchins?"
 },
 
 "day24":{
