@@ -144,10 +144,10 @@
 
 "day16":{
   "n":"16",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"Gold, Compound Semiconductors and Myrrh",
-  "infolink":"http://www.cardiff.ac.uk/innovation/campus-investment/translational-research-facility/institute-for-compound-semiconductors",
-  "imgsrc":"images/blank.jpg",
+  "thumbsrc":"thumbs/ics.jpg",
+  "name":"Compound Semiconductors",
+  "infolink":"http://www.cardiff.ac.uk/institute-compound-semiconductors",
+  "imgsrc":"images/ics.jpg",
   "text":"Semiconductors have become a vital part of modern life, from our games consoles to space probes, and without them the modern world wouldn't be quite so modern! This year Cardiff University and IQE plc joined forces to create the Institute for Compound Semiconductors with the aim of developing cutting edge research in the field with the aim of implementing it commercially with greater reliability and speed."
 },
 
