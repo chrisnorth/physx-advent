@@ -494,3 +494,9 @@ p.more a:hover{
 div.fbclear{
     clear:both;
 }
+
+@media (max-width: 500px) {
+    div.day,div.past div.obj-img{
+        border-width: 2px;
+    }
+}
