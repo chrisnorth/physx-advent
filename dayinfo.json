@@ -32,11 +32,11 @@
 "day4":{
   "n":"4",
   "thumbsrc":"thumbs/cern.jpg",
-  "name":"Colliding particles",
+  "name":"It's the little things that count",
   "infolink":"http://phys.org/news/2016-11-lhc-colliding-proton-heavy-ions.html",
   "imgsrc":"images/cern.jpg",
   "imgcredit":"CERN",
-  "text":"The <a href='http://home.cern/topics/large-hadron-collider'>Large Hadron Collider</a> is one of the most complicated particle physics experiments ever built. Since it's full startup in 2009 (after a \"quenching\" incident in 2008) it has been gradually increasing the speed, and therefore energy, of the particles it is crashing together.</p><p>The particles, normally protons, are accelerated to almost the speed of light which whizzing round the 27km-circumference circuit. When they collide, the energy produced rivals those near the start of the Universe, and lets physicists learn more about the fundamental building blocks of nature.</p><p>More recently, the experiment has started colliding lead nuclei with protons, which are over 200 times more massive than protons, and carry 82 times the charge. While they can't reach is high energies as the protons, the \"imbalance\" in the collisions allows the experiment to probe deeper down into the fabric of the Universe - the \"<a href='https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma'>quark-gluon plasma</a>\"."
+  "text":"At this time of year, it's the little things that count - though that's true for particle physicists all year round. The <a href='http://home.cern/topics/large-hadron-collider'>Large Hadron Collider</a> is one of the most complicated particle physics experiments ever built. Since it's full startup in 2009 (after a \"quenching\" incident in 2008) it has been gradually increasing the speed, and therefore energy, of the particles it is crashing together.</p><p>The particles, normally protons, are accelerated to almost the speed of light which whizzing round the 27km-circumference circuit. When they collide, the energy produced rivals those near the start of the Universe, and lets physicists learn more about the fundamental building blocks of nature.</p><p>More recently, the experiment has started colliding lead nuclei with protons, which are over 200 times more massive than protons, and carry 82 times the charge. While they can't reach is high energies as the protons, the \"imbalance\" in the collisions allows the experiment to probe deeper down into the fabric of the Universe - the \"<a href='https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma'>quark-gluon plasma</a>\"."
 },
 
 "day5":{
@@ -51,7 +51,7 @@
 "day6":{
   "n":"6",
   "thumbsrc":"thumbs/steve-mould-gw.jpg",
-  "name":"Recreating Gravitational Waves",
+  "name":"A (short) Christmas Movie",
   "infolink":"https://www.youtube.com/watch?v=dw7U3BYMs4U",
   "imgsrc":"images/steve-mould-gw.jpg",
   "imgcredit":"<a href='https://www.youtube.com/watch?v=dw7U3BYMs4U'>YouTube/Steve Mould</a>",
@@ -61,7 +61,7 @@
 "day7":{
   "n":"7",
   "thumbsrc":"thumbs/antikythera.jpg",
-  "name":"Computers from antiquity",
+  "name":"A 2000 year old mystery...",
   "infolink":"http://www.astro.cf.ac.uk/newsandevents/?page=news_detail&news=0208",
   "imgsrc":"images/antikythera.jpg",
   "text":"The <a href='https://en.wikipedia.org/wiki/Antikythera_mechanism'>Antikythera Mechanism</a> has been a source of fascination to scholars since it was first taken from the waters around the Greek island of Antikythera in 1900. For some time now, we've understood its use an ancient analogue computer and orrery used to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the Olympiads, the cycles of the ancient Olympic Games, but now researchers are deciphering the writings inscribed on the mechanisms surfaces.</p><p><a href='http://www.astro.cf.ac.uk/contactsandpeople/?page=full&amp;id=123'>Professor Mike Edmunds</a> of Cardiff University is part of the <a href='http://www.antikythera-mechanism.gr/'>Antikythera Mechanism Research Project</a>, an international group working to understand the device's origin and purpose. The team’s research has now found that the inscriptions refer not only to the Sun and the Moon, as was already known, but confirm that the motions of the planets were also shown, as well as the timing and colour of eclipses. Significantly, this interest in colour represents the first indication that the mechanism may have been used, not only in astronomy, but also in astrology – the archaic system of trying to predict events on earth based on the movements and positions of the stars and planets."
@@ -70,7 +70,7 @@
 "day8":{
   "n":"8",
   "thumbsrc":"thumbs/proxima-b.jpg",
-  "name":"Exoplanet on our doorstep",
+  "name":"Meet our new neighbour",
   "infolink":"https://www.eso.org/public/unitedkingdom/news/eso1629/",
   "imgsrc":"images/proxima-b.jpg",
   "text":"August 2016 heralded the announcement of the discovery of an \"exoplanet\" in the habitable zone of <a href='https://en.wikipedia.org/wiki/Proxima_Centauri'>Proxima Centauri</a>, the nearest star to ours. First indications of the existence of the planet were found in 2013, with its existence then confirmed by an international team of 31 scientists as part of the <a href='https://palereddot.org/'>Pale Red Dot</a> project.</p><p>Although the planet, dubbed \"Proxima b\" lies in the habitable zone of its star, its actual habitability is questionable. It is subject to stellar wind pressures 2000x stronger than those here on Earth that would strip any atmosphere away. More than that, its proximity to the star means there is a high probability it is tidally locked with one side permanently facing towards the star super-heating it, while the opposite side is in permanent darkness and freezing cold. This would leave the so called 'Terminator zone' where light meets dark providing the only place on the surface that any water on the planet's surface would exist as a liquid.</p><p>Further study, including observing a transit of the planet across Proxima Centauri is required to confirm the habitability of the planet to life as we know it."
@@ -89,7 +89,7 @@
 "day10":{
   "n":"10",
   "thumbsrc":"thumbs/chiral.jpg",
-  "name":"Interstellar Chirality",
+  "name":"Twinkle, twinkle...",
   "infolink":"http://physicsworld.com/cws/article/news/2016/jun/14/chiral-molecules-spotted-in-interstellar-cloud",
   "imgsrc":"images/chiral.jpg",
   "text":"</p><p style='text-align:center;'><i>Twinkle twinkle, little star<br/>How I wonder what...<br/> chirality the molecules in the interstellar dust clouds between you are.</i></p><p>With the discovery of <a href='http://physicsworld.com/cws/article/news/2016/jun/14/chiral-molecules-spotted-in-interstellar-cloud'>chiral molecules in interstellar dust clouds</a> this year, scientists have moved closer to understanding how life on Earth first formed. Chiral molecules, which play crucial roles in the chemistry of life, exist in two different structures that are mirror images of each other, and just like human hands are referred to in terms of their right- and left-handedness.</p><p>This discovery was the first time these biologically important molecules were detected beyond our solar system, and although the type of molecule detected (propylene oxide) is not a biological one, its discovery suggests that they could exist in the depths of space. Chirality is an important property of life and most biological processes are 'homochiral' – they are highly selective in terms of the handedness of the molecules involved. For example, most amino acids found in living organisms are left-handed, whereas most sugars produced by nature are right-handed.</p><p>Many scientists believe that chiral molecules were an important 'prebiotic' precursor to life. Chiral molecules older than the Earth itself have been spotted in meteors and comets, which suggests that life may have extraterrestrial origins. As a result, astrobiologists studying the possible emergence of life on other planets are keen to understand where prebiotic chiral molecules are formed in the universe."
@@ -118,10 +118,10 @@
 "day13":{
   "n":"13",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"Tim Peake",
+  "name":"Christmas in space",
   "infolink":"INSERT LINK",
   "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT - Brychan"
+  "text":"REPLACE TEXT - Brychan (Tim Peake)"
 },
 
 "day14":{
@@ -145,7 +145,7 @@
 "day16":{
   "n":"16",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"Compound Semiconductors",
+  "name":"Gold, Frankensence, and... Compound Semiconductors",
   "infolink":"http://www.cardiff.ac.uk/innovation/campus-investment/translational-research-facility/institute-for-compound-semiconductors",
   "imgsrc":"images/blank.jpg",
   "text":"REPLACE TEXT - Brychan"
@@ -164,10 +164,10 @@
 "day18":{
   "n":"18",
   "thumbsrc":"thumbs/blank.jpg",
-  "name":"Cardiff Brain Imaging",
+  "name":"It's all in your head",
   "infolink":"http://www.cardiff.ac.uk/innovation/campus-investment/cubric",
   "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT - Brychan"
+  "text":"REPLACE TEXT - Brychan (CUBRIC)"
 },
 
 "day19":{
@@ -182,10 +182,10 @@
 "day20":{
   "n":"20",
   "thumbsrc":"thumbs/logo_uitc.jpg",
-  "name":"Introducing our bright new STARS",
+  "name":"When a STAR is born",
   "infolink":"http://www.universe.wales/",
   "imgsrc":"images/logo_uitc.jpg",
-  "text":"For three years, <a href='http://www.universe.wales/about'>Universe in the Classroom</a> has been running a successful voluntary role model scheme with BSc, MSc and PhD students from the Cardiff University Schools of Physics and Astronomy, and Mathematics. These <a href='http://www.universe.wales/stars'>Stellar Role Models</a>, or STARS, visit primary schools across Wales to help inspire and educate students using Astronomy.<br><br>We are now very proud to have 51 enthusiastic students acting as STEM role models for young welsh children. By taking part in the project, STEMM students offer a diverse pool of representatives; including Welsh-speakers, female scientists and a range of ethnic groups and backgrounds, who will tackle diversity and gender issues in science and technology across Wales and broaden young children’s ideas of who can be a scientist at an age where impressions can become fixed."
+  "text":"For three years, <a href='http://www.universe.wales/about'>Universe in the Classroom</a> has been running a successful voluntary role model scheme with BSc, MSc and PhD students from the Cardiff University Schools of Physics and Astronomy, and Mathematics. These <a href='http://www.universe.wales/stars'>Stellar Role Models</a>, or \"STARS\", visit primary schools across Wales to help inspire and educate students using Astronomy.<br><br>We are now very proud to have 51 enthusiastic students acting as STEM role models for young welsh children. By taking part in the project, STEMM students offer a diverse pool of representatives; including Welsh-speakers, female scientists and a range of ethnic groups and backgrounds, who will tackle diversity and gender issues in science and technology across Wales and broaden young children’s ideas of who can be a scientist at an age where impressions can become fixed."
 },
 
 "day21":{
