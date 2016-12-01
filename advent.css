@@ -266,7 +266,9 @@ div.past .obj-link{
 div.day .num.over, div.day .numb.over{
     font-size:4em;
 }
-
+div.num,div.numb{
+    text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000; 
+}
 div.past .grey{
     display:none;
     /*background-color:black;*/
