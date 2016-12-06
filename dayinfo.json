@@ -96,11 +96,11 @@
 
 "day11":{
   "n":"11",
-  "thumbsrc":"thumbs/pythag-trousers.jpg",
-  "name":"Pythagorean Astronomy",
-  "infolink":"http://blogs.cardiff.ac.uk/physicsoutreach/category/media/pythagorean-astronomy/",
-  "imgsrc":"images/pythag-trousers.jpg",
-  "text":"For over five years now, the Pythagoras' Trousers radio show has been gracing the air-waves of south-east Wales on Radio Cardiff. The weekly science and technology show is hosted by <a href='http://www.rhysphillips.co.uk/'>Rhys Phillips</a>, but once a month <a href='http://blogs.cardiff.ac.uk/chrisnorth'</a>Dr Chris North</a> and <a href='https://lco.global/user/egomez/'>Dr Edward Gomez</a> present an astronomy slot.</p><p>Including the latest astronomy news, as well as interviews with astronomers from all over the UK and around the the world, the extended version of the \"Pythagorean Astronomy\" is available on this blog every month.</p><p>The November 2016 episode included the Cassini spacecraft, the roundest known star, and the <a href='http://gleam.icrar.org/'>GLEAM</a> radio survey. Or why not listen to something from the back catalogue, from the <a href='http://blogs.cardiff.ac.uk/physicsoutreach/2016/09/26/pythagorean-astronomy-rosetta-osiris-rex/'>end of the Rosetta mission</a>, the <a href='http://blogs.cardiff.ac.uk/physicsoutreach/2016/02/25/pythagorean-astronomy-the-voice-of-einstein/'>discovery of graviational waves</a>, or <a href='http://blogs.cardiff.ac.uk/physicsoutreach/2016/06/30/pythagorean-astronomy-the-origins-of-black-holes/'>the origins of black holes</a>?"
+  "thumbsrc":"thumbs/logo_uitc.jpg",
+  "name":"When a STAR is born",
+  "infolink":"http://www.universe.wales/",
+  "imgsrc":"images/logo_uitc.jpg",
+  "text":"For three years, <a href='http://www.universe.wales/about'>Universe in the Classroom</a> has been running a successful voluntary role model scheme with BSc, MSc and PhD students from the Cardiff University Schools of Physics and Astronomy, and Mathematics. These <a href='http://www.universe.wales/stars'>Stellar Role Models</a>, or \"STARS\", visit primary schools across Wales to help inspire and educate students using Astronomy.<br><br>We are now very proud to have 51 enthusiastic students acting as STEM role models for young welsh children. By taking part in the project, STEMM students offer a diverse pool of representatives; including Welsh-speakers, female scientists and a range of ethnic groups and backgrounds, who will tackle diversity and gender issues in science and technology across Wales and broaden young children’s ideas of who can be a scientist at an age where impressions can become fixed."
   },
 
 
@@ -118,13 +118,9 @@
   "n":"13",
   "thumbsrc":"thumbs/blank.jpg",
   "name":"Christmas in space",
-  "infolink":"INSERT LINK",
+  "infolink":"https://principia.org.uk",
   "imgsrc":"images/blank.jpg",
-  "text":"It has been a year since Tim Peake took his place on board Soyuz TMA-19M on the pad at Baikonur Cosmodrome Waiting to become the first Astronaut Britain has sent to space (without foreign citizenship or a private contract (Helen Sharman – the first Briton in space))
-</p><p>
-Technicalities aside, the British public followed his mission like no other before, with the news and social media watching his every move up there. Due to the timing of the Principia mission he was on Tim spent Christmas in space with a rehydrated Christmas dinner and a raft of important experiments to perform to generate data for scientists back on Earth. He used an electromagnetic furnace to study the way molten metals behave in zero g to allow metallurgists on earth to create more intelligently designed alloys, he controlled a Rover in Stevenage from orbit as a precursor to manned missions to Mars doing something similar and he also performed medical tests on himself to provide further data to doctors about how human beings react to life in space.
-</p><p>
-On January 15th 2016, Tim became the first Brit to take a spacewalk to repair the stations electrical systems, and in the midst of his hugely demanding workload, he still took the time to talk to people back home, inspiring thousands of school children, something he continues to do since he returned to earth. To learn more about Tim’s Principia mission, head over to <a href=''https://principia.org.uk'' target=''_blank''>principia.org.uk</a>"
+  "text":"It has been a year since Tim Peake took his place on board Soyuz TMA-19M on the pad at Baikonur Cosmodrome Waiting to become the first ESA astronaut Britain has sent to space (without foreign citizenship or a private contract (Helen Sharman – the first Briton in space).</p><p>Technicalities aside, the British public followed his mission like no other before, with the news and social media watching his every move up there. Due to the timing of the Principia mission he was on Tim spent Christmas in space with a rehydrated Christmas dinner and a raft of important experiments to perform to generate data for scientists back on Earth. He used an electromagnetic furnace to study the way molten metals behave in zero-G to allow metallurgists on earth to create more intelligently designed alloys; he controlled a Rover in Stevenage from orbit as a precursor to manned missions to Mars doing something similar; and he also performed medical tests on himself to provide further data to doctors about how human beings react to life in space.</p><p>On January 15th 2016, Tim became the first Brit to take a spacewalk to repair the station's electrical systems, and in the midst of his hugely demanding workload, he still took the time to talk to people back home, inspiring thousands of school children, something he continues to do since he returned to earth. To learn more about Tim’s Principia mission, head over to <a href='https://principia.org.uk'>principia.org.uk</a>"
 },
 
 "day14":{
@@ -177,20 +173,20 @@ On January 15th 2016, Tim became the first Brit to take a spacewalk to repair th
 
 "day19":{
   "n":"19",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"Nanophysics",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT - Chris from Susan/Adam"
+  "thumbsrc":"thumbs/pythag-trousers.jpg",
+  "name":"Pythagorean Astronomy",
+  "infolink":"http://blogs.cardiff.ac.uk/physicsoutreach/category/media/pythagorean-astronomy/",
+  "imgsrc":"images/pythag-trousers.jpg",
+  "text":"For over five years now, the Pythagoras' Trousers radio show has been gracing the air-waves of south-east Wales on Radio Cardiff. The weekly science and technology show is hosted by <a href='http://www.rhysphillips.co.uk/'>Rhys Phillips</a>, but once a month <a href='http://blogs.cardiff.ac.uk/chrisnorth'</a>Dr Chris North</a> and <a href='https://lco.global/user/egomez/'>Dr Edward Gomez</a> present an astronomy slot.</p><p>Including the latest astronomy news, as well as interviews with astronomers from all over the UK and around the the world, the extended version of the \"Pythagorean Astronomy\" is available on this blog every month.</p><p>The November 2016 episode included the Cassini spacecraft, the roundest known star, and the <a href='http://gleam.icrar.org/'>GLEAM</a> radio survey. Or why not listen to something from the back catalogue, from the <a href='http://blogs.cardiff.ac.uk/physicsoutreach/2016/09/26/pythagorean-astronomy-rosetta-osiris-rex/'>end of the Rosetta mission</a>, the <a href='http://blogs.cardiff.ac.uk/physicsoutreach/2016/02/25/pythagorean-astronomy-the-voice-of-einstein/'>discovery of graviational waves</a>, or <a href='http://blogs.cardiff.ac.uk/physicsoutreach/2016/06/30/pythagorean-astronomy-the-origins-of-black-holes/'>the origins of black holes</a>?"
 },
 
 "day20":{
   "n":"20",
-  "thumbsrc":"thumbs/logo_uitc.jpg",
-  "name":"When a STAR is born",
-  "infolink":"http://www.universe.wales/",
-  "imgsrc":"images/logo_uitc.jpg",
-  "text":"For three years, <a href='http://www.universe.wales/about'>Universe in the Classroom</a> has been running a successful voluntary role model scheme with BSc, MSc and PhD students from the Cardiff University Schools of Physics and Astronomy, and Mathematics. These <a href='http://www.universe.wales/stars'>Stellar Role Models</a>, or \"STARS\", visit primary schools across Wales to help inspire and educate students using Astronomy.<br><br>We are now very proud to have 51 enthusiastic students acting as STEM role models for young welsh children. By taking part in the project, STEMM students offer a diverse pool of representatives; including Welsh-speakers, female scientists and a range of ethnic groups and backgrounds, who will tackle diversity and gender issues in science and technology across Wales and broaden young children’s ideas of who can be a scientist at an age where impressions can become fixed."
+  "thumbsrc":"thumbs/blank.jpg",
+  "name":"Nanophysics",
+  "infolink":"INSERT LINK",
+  "imgsrc":"images/blank.jpg",
+  "text":"REPLACE TEXT - Chris from Suzanne/Adam"
 },
 
 "day21":{
