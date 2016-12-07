@@ -68,11 +68,11 @@
 
 "day8":{
   "n":"8",
-  "thumbsrc":"thumbs/proxima-b.jpg",
-  "name":"Meet our new neighbour",
-  "infolink":"https://www.eso.org/public/unitedkingdom/news/eso1629/",
-  "imgsrc":"images/proxima-b.jpg",
-  "text":"August 2016 heralded the announcement of the discovery of an \"exoplanet\" in the habitable zone of <a href='https://en.wikipedia.org/wiki/Proxima_Centauri'>Proxima Centauri</a>, the nearest star to ours. First indications of the existence of the planet were found in 2013, with its existence then confirmed by an international team of 31 scientists as part of the <a href='https://palereddot.org/'>Pale Red Dot</a> project.</p><p>Although the planet, dubbed \"Proxima b\" lies in the habitable zone of its star, its actual habitability is questionable. It is subject to stellar wind pressures 2000x stronger than those here on Earth that would strip any atmosphere away. More than that, its proximity to the star means there is a high probability it is tidally locked with one side permanently facing towards the star super-heating it, while the opposite side is in permanent darkness and freezing cold. This would leave the so called 'Terminator zone' where light meets dark providing the only place on the surface that any water on the planet's surface would exist as a liquid.</p><p>Further study, including observing a transit of the planet across Proxima Centauri is required to confirm the habitability of the planet to life as we know it."
+  "thumbsrc":"thumbs/iop-logo.jpg",
+  "name":"Something DIFFerent",
+  "infolink":"https://www.facebook.com/events/1744490582540568/",
+  "imgsrc":"images/iop-storytelling.jpg",
+  "text":"One of the very important thing physicists do is disseminate their research, keeping people informed about latest developments and inspiring the next generation of scientists and engineers. We don't do it alone, and often work with other groups, such as the <a href='www.iop.org'>Institute of Physics</a>, to tell people about our research in new and interesting ways - often with other reserachers from other fields of research.</p><p>For example, do you want to try \"Something DIFFerent\" this December? Join the Institute of Physics, Cardiff University researchers and storyteller Christine Watkins on Sunday 18th December as they share with us some of science's stories. The Institute of Physics is very excited to present this unique collaborative event at <a href='https://www.facebook.com/littlemancoffee/'>Little Man Coffee</a> in Cardiff. This event is free and starts at 5pm, and is for adults (with a fully licensed bar!). To register your interest and for more information check out the <a href='https://www.facebook.com/events/1744490582540568/' target='_blank'>Facebook Event page</a>.</p><p>You can even read about the <a href='http://www.iopwales.org/news/16/page_67030.html'>previous event</a>, held back in February."
 },
 
 "day9":{
@@ -125,11 +125,11 @@
 
 "day14":{
   "n":"14",
-  "thumbsrc":"thumbs/iop-logo.jpg",
-  "name":"IOP/SPN",
-  "infolink":"INSERT LINK",
-  "imgsrc":"images/iop-storytelling.jpg",
-  "text":"REPLACE TEXT - Brychan via Abi?"
+  "thumbsrc":"thumbs/proxima-b.jpg",
+  "name":"Meet our new neighbour",
+  "infolink":"https://www.eso.org/public/unitedkingdom/news/eso1629/",
+  "imgsrc":"images/proxima-b.jpg",
+  "text":"August 2016 heralded the announcement of the discovery of an \"exoplanet\" in the habitable zone of <a href='https://en.wikipedia.org/wiki/Proxima_Centauri'>Proxima Centauri</a>, the nearest star to ours. First indications of the existence of the planet were found in 2013, with its existence then confirmed by an international team of 31 scientists as part of the <a href='https://palereddot.org/'>Pale Red Dot</a>.</p><p>Although the planet, dubbed \"Proxima b\" lies in the habitable zone of its star, its actual habitability is questionable. It is subject to stellar wind pressures 2000x stronger than those here on Earth that would strip any atmosphere away. More than that, its proximity to the star means there is a high probability it is tidally locked with one side permanently facing towards the star super-heating it, while the opposite side is in permanent darkness and freezing cold. This would leave the so called 'Terminator zone' where light meets dark providing the only place on the surface that any water on the planet's surface would exist as a liquid.</p><p>Further study, including observing a transit of the planet across Proxima Centauri is required to confirm the habitability of the planet to life as we know it."
 },
 
 "day15":{
