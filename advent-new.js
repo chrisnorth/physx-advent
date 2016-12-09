@@ -13,7 +13,7 @@ advent.prototype.scaleimg = function(){
     var scalex=w/el.outerWidth();
     var scaley=h/el.outerHeight();
     var aspect=w/h;
-    if (aspect>1.5){
+    if (aspect>2){
         var scale=scalex;
     }else{
         var scale = (scalex < scaley ? scalex : scaley);
