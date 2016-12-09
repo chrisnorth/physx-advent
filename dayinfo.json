@@ -212,11 +212,11 @@
 
 "day23":{
   "n":"23",
-  "thumbsrc":"thumbs/blank.jpg",
-  "name":"Nano stuff from Sam?",
-  "infolink":"http://www.astro.cf.ac.uk/newsandevents/?page=news_detail&news=0202",
-  "imgsrc":"images/blank.jpg",
-  "text":"REPLACE TEXT - Chris via Matt Hunt?"
+  "thumbsrc":"thumbs/ladak-tetrapod.jpg",
+  "name":"Nano-Magnets",
+  "infolink":"http://ladaklab.com/",
+  "imgsrc":"images/ladak-tetrapod.jpg",
+  "text":"Are you getting a new computer for Christmas? You might be amazed at how much better computers, phones and tablets are compared with just a few years ago - but how long can this trend continue?</p><p>As household computers get more powerful, cheaper and abundant, the need to store ever increasing amounts of information digitally is fast approaching a fundamental limit for conventional computer memory. To overcome this researchers are exploring alternative avenues for digital storage, one of which is to look at 3D magnetic nano-structures (magnets that are far smaller than can be seen with the naked eye) in the hopes of uncovering new and exotic physical processes.</p><p>Here at Cardiff University, <a href='http://www.astro.cf.ac.uk/contactsandpeople/?page=full&id=616'>Dr Sam Ladak</a> is leading a team of researchers who are fabricating such structures using a process known as <a href='https://en.wikipedia.org/wiki/Multiphoton_lithography'>two-photon lithography</a>, which is similar to 3D-printing but at scales a hundred times smaller than the width of a human hair. Using these methods it is possible to create shapes and structures previously impossible with standard fabrication techniques at this scale. They are then able to explore the magnetic properties within these geometries by utilising an array of measurement methods both within the university and with collaborators across the globe."
 },
 
 "day24":{
